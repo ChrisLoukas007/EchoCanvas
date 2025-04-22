@@ -1,0 +1,25 @@
+[
+    {
+      "title": "The Scream",
+      "artist": "Edvard Munch",
+      "year": 1893,
+      "style": "Expressionism",
+      "emotion": "Anxiety",
+      "image_path": "images/the_scream.jpg",
+      "subject": "man",
+      "monologue": "I can’t stop the ringing in my ears. The world is spinning, screaming back at me. Everything dissolves into terror. Do they see me? Or am I just noise in their silence?"
+    },
+    {
+      "title": "Starry Night",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "style": "Post-Impressionism",
+      "emotion": "Wonder",
+      "image_path": "images/starry_night.jpg",
+      "subject": "landscape",
+      "monologue": "The sky won’t stop swirling. It speaks to me in blue and yellow. My thoughts spiral with it, fast, endless, beautiful. This night is alive, and so am I."
+    }
+  ]
+
+  
+  
