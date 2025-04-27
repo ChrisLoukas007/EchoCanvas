@@ -1,0 +1,5 @@
+# Ignore original large dataset
+full_dataset.csv
+*.zip
+*.tar.gz
+*.rar
