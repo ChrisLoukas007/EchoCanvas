@@ -1,64 +1,72 @@
-# 🎭 AI Monologue Generator
+# 🎨 Talk to the Painter – AI Conversations with Famous Artists
 
-Welcome to the **AI Monologue Generator**, a research-driven project that explores the intersection of visual art, emotion, and language generation using advanced machine learning techniques. 
-
-This project takes a painting and a set of metadata (title, artist, style, theme, period, field, date, etc.) as input, and generates a **first-person monologue** that imagines what the subject of the painting might say — as if coming to life.
+Welcome to **Talk to the Painter**, an experimental project that merges the power of conversational AI with the soul of art history.
 
 ## 🧠 Project Goal
 
-To build a custom multi-modal AI model that learns to generate expressive, emotionally rich monologues conditioned on both image (painting) and text (metadata). Unlike traditional captioning models, this model aims for **artistic storytelling and emotional depth**.
+To build an AI system that lets users **converse with legendary painters** about their artworks — asking questions like:
+- *“What inspired this painting?”*
+- *“Why are these colors so dark?”*
+- *“What emotion were you feeling while creating this?”*
+
+The AI replies in the **persona and voice** of the selected painter, enriched with metadata and biographical context.
 
 ---
 
-## 🧩 How It Works
+## 💬 How It Works
 
-> **Input:** An image of a painting + metadata  
-> **Output:** A generated first-person monologue expressing the painting’s inner voice
+> **Input:** User question + selected painting  
+> **Output:** Natural AI response from the painter's persona
 
-The model pipeline includes:
-- **Vision Encoder** to extract features from the painting
-- **Text Encoder** to process metadata like title, artist, style, genre
-- **Fusion Mechanism** to combine visual + textual features
-- **Text Decoder** to generate the monologue
+- 🎯 Painter and artwork selection
+- 🧠 Painter persona embedding from biography + metadata
+- 🎨 Image and metadata features as context
+- 🤖 LLM-based conversational agent
 
 ---
 
 ## 📚 Dataset
 
-This project uses a curated subset derived from the **PainterPalette dataset**, the most extensive public dataset of painters.  
-Approximately **261 samples** have been selected, each featuring rich metadata.
+A curated subset from the **PainterPalette Dataset**, featuring:
+- ✅ Paintings
+- 👨‍🎨 Multiple famous painters
+- 🎨 Rich metadata (style, genre, theme, medium)
+- 📘 Biographical info from Wikipedia/WikiArt
 
-Each entry in the dataset includes:
-
-- 🖼️ `Path`: Relative path to the painting image
-- 🖊️ `painting_name`: Title of the painting
-- 🎨 `Style`: Artistic style (e.g., Surrealism, Cubism)
-- 🧑‍🎨 `author_name`: Painter's full name
-- 📜 `Genre`: Type of painting (e.g., Mythological, Portrait, Landscape)
-- 📚 `Theme`: Key themes associated with the painting
-- 🏛️ `Period`: Art period (e.g., Modernism, Renaissance)
-- 🖌️ `Field`: Area of art (e.g., painting, sculpture)
-- 📅 `Date`: Year of creation
+Painter biographies stored separately in `data/biographies/`.
 
 ---
 
-## ✅ Current Status
+## 📌 Current Status
 
-- [x] Dataset selection and cleaning completed
-- [x] Project structure and design finalized
-- [ ] Model development in progress (encoders, fusion module, decoder)
-- [ ] Training and evaluation pipeline (coming soon)
+- [x] Dataset cleaning and selection
+- [ ] Biographical enrichment from Wikipedia
+- [ ] LLM persona modeling (painter character)
+- [ ] Conversational engine development
+- [ ] UI/UX prototype (optional frontend)
+
+---
+
+## 🛠 Tools & Stack
+
+- 🧠 GPT or LLaMA for dialogue generation
+- 🎨 CLIP for image+text understanding
+- 📂 Python + PyTorch
+- 🗃️ HuggingFace Datasets or custom CSV loaders
+- ✅ Project tracking: Trello + GitHub Issues
+
+---
+
+## 🧪 Sample Use Case
+
+> **User:** “Why did you paint the Minotaur so sad?”  
+> **AI (as Picasso):** “That sadness reflects the darkness I felt in 1934… The Minotaur was a symbol of myself.”
 
 ---
 
 ## 🤝 Contributing
 
-This is an independent, experimental research initiative.  
-If you're passionate about AI storytelling, creative generation, or wish to contribute ideas, datasets, or models — let’s connect!
+If you're into AI, art, or creative tech — join the conversation!
 
-## 📫 Contact
-
-- Created with curiosity by Christos Loukas Ntais
+- 👤 Christos Loukas Ntais  
 - 📧 christos.loukas.ntais@gmail.com
-
----
