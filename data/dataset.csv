@@ -1,0 +1,656 @@
+author_name,painting_name,Style,Genre,Theme,Date,Period,image_url
+Fanny Sanín,Acrylic No 7##PgHuNPL7tCzllg,Geometric Abstraction,,,1994,,http://lh3.googleusercontent.com//FHQ_SjNhmdHk88NO0GjSi1j7Mz7OzJr9OqWbfFUHKiwm8_lSk1hXBq6st0J1ow3u3g
+Fanny Sanín,Acrylic No 3##8wFsMfnNZXCYKg,Geometric Abstraction,,,1988,,http://lh3.googleusercontent.com//NAPSsG9kp27yYrQecPaAFydK0lBYSQlsfdYMGuXBxui8Chk5hjj0KmbLhjPFRE51dg
+Fanny Sanín,Composition No 1##SgHjP33UTzF8bA,Geometric Abstraction,,,2003,,http://lh3.googleusercontent.com//u1C09ABkZ7x_iwfSuYQ-9Kd6SAZ8y_DH7GVOXoqe2oc3IimhDooVrnhbRrNEF_o9vA
+Fanny Sanín,Composition No 1##ngHsS5kVe814Qg,Geometric Abstraction,,,2011,,http://lh3.googleusercontent.com//QG2XK0SabidZABLKqP8nhA9ryhpYG_E0QmOsMm8F5ZJdVorbImb2V2H6TtNKNA-vYw
+Fanny Sanín,Acrylic No 7##vAFKBkEQnV-sQQ,Geometric Abstraction,,,1970,,http://lh3.googleusercontent.com//2qcZhDt_uC2Ge2rDZ6TKZMgNktvjrDTq6tH5J6XsU7zJum4yuEQL9NmxLcebM2QTMw
+Juan Sánchez Cotán,Still Life With Cardoon##9gGhkXq3DErrWg,Baroque,,,1600-1600,,http://lh3.googleusercontent.com//yznlR3IpDy_FvrNB-kSEbGgPBoCC8As-iGw5gZHqaBeAe2gOtSbBveDBk0A_2WdsrA
+Juan Sánchez Cotán,Saint Bruno In The Mountain Of Calabria##DgHg0iJuTLYdUA,Manierism-Baroque,,,1603-1627,,http://lh3.googleusercontent.com//wXP5EVrAGvXftTsoEFuUDu4ydsZL0E_kF2nVWty9uPGpgzao4nXXLCRSgIEDjZdm
+Juan Sánchez Cotán,Saint Bruno##DAHDIAG3xc8RtQ,Manierism-Baroque,,,1603-1605,,http://lh3.googleusercontent.com//exZ3H1Ntp1n6axOrc-kHlSpxwb-jsJQ5xjWiU8kv8kmnDcgwrcBgKQs1VV6F6itftA
+Juan Sánchez Cotán,Inmaculate Conception##fwEc_oDvPOIFLQ,Manierism-Baroque,,,1617-1618,,http://lh3.googleusercontent.com//c8AzWiYBxmPmvikzJugz5-bpRypzlPgPCs8XPUGR2piWnLRmqyJcQDRkfCDDdgaG-Q
+Juan Sánchez Cotán,Saint John Baptist##WAHg-FxR8EinQA,Manierism-Baroque,,,1603-1605,,http://lh3.googleusercontent.com//KhU8K8ekDArlyfaFNAb86q1PiOJbDg0Q84bdnx6qy5AREJAXRuuSMtahP8K-Tz7mIyg
+Juan Sánchez Cotán,The Virgin Awakening Child Christ##8QHlaq7sm0iANg,Manierism-Baroque,,,1603-1627,,http://lh3.googleusercontent.com//b50TdVgkBuPDgQPRVxphHF0DoojipDSWHxuVfmSfdyrNvHNmaPZbAAwYByLZs0x6RA
+Pedro de Mena,Saint Joseph And The Christ Child##gwEdQMRcHv9mnQ,Baroque,,,1653-1657,,http://lh3.googleusercontent.com//x2-YRFPL6yCGDRd5gPALDsm9eTxDUYYT9F7F6u2-ciH9o-Ty9oZWABiCne_ihatx
+Pedro de Mena,Saint Anthony Of Padua##fwGFMWV4RnAY_Q,Baroque,,,1653-1657,,http://lh3.googleusercontent.com//tF3f-dCat05b6DSIc1Qju-1oS0cK2pscl464-46bIEmRA9P6hsC_DkxP9DiKyVooQTs
+Pedro de Mena,Saint Didacus Of Alcalá##RwHzKwAdYP_t8g,Baroque,,,1653-1657,,http://lh3.googleusercontent.com//ruklJ7PMHz08RSSR3SFEahX7abtFJeoKwEAlo-JvBTaWnTyMby44UygDs0fUqzN1
+Pedro de Mena,Saint Peter Of Alcantara##dAEBaBppLDi0YQ,Baroque,,,1653-1657,,http://lh3.googleusercontent.com//pDD65WOVrdQWCB1EOOc_23t89BkF2ZsLeBgHm1zPn5QZGq8ixPy0ZvmC62oMZAcO
+Pedro de Mena,Virgin Of Solitude##JQHfLH8dDHkmig,Baroque,,,1670-1680,,http://lh3.googleusercontent.com//B2OrN1EOL52cml1xuoieWdFzqh5KjXfBAeB_mHJIMk8bN3VXuuP0ofVlH2_hRoSnDhU
+Wolfgang Lettl,13 Attempts To Become A Rooster 4##1AHJYaBd6ilSKw,Surrealism,,,1978,,http://lh3.ggpht.com//T3e0iM_btcRLRxxJwPk49dLlNS6XlXGlnJH1aGImWXd0iz2DnEziKPx4nnhI
+Wolfgang Lettl,The Psychiatrist Or Rose Is Nuts A Second Time##SwG-F6km9oZ56A,Surrealism,,,2013,,http://lh3.ggpht.com//RamVDglTt8KTydr0JzZJGy-K6mw3FsBlk_-on374NWrEGg3oGNGoYqoo9Ung
+Wolfgang Lettl,The Candidate##0gGVf3HhrmDu4A,Surrealism,,,1996,,http://lh6.ggpht.com//TJneRCczhNnhlXycjbRQs4UfaX12O_mizpNWeGR0zodwA8MCM6fKF79NVKw
+Wolfgang Lettl,Arsonists Number 1##VwHhBqb9gQI2sw,Surrealism,,,1986,,http://lh3.ggpht.com//nETg8A4t2sBc3CVtiWgjPeWVvEMMMJMv-pjrA3dmMqt_eEt6Ettqq2rA54M5Cg
+Wolfgang Lettl,The Summit##jAHbHJG-i0j8tg,Surrealism,,,1994-1995,,http://lh5.ggpht.com//j3PhMcDyw_XDHXiBy1lyc2Mxb5pgEOyo1rI97bqdjMxQMs1lwwQHh68RT075
+Kirsten Justesen,Lunch For A Landscape##8AGWQgbl_eXlZw,Conceptual Art; Body Art,,,1975,,http://lh3.googleusercontent.com//DnM_Yf63MdPpJoZEJPVPj4F5OUf9qGjIR0HaPQrw0b1_eCNZYvYe-jmlx-42Ga0YMA4
+Kirsten Justesen,Portrait In Archive With Collection##TAGEdocZRCYwLw,Conceptual Art; Body Art,,,2013,,http://lh3.googleusercontent.com//eB24kqcGkBd-MS7_dBA9RmOVHpu74fFflINfqDqT244i2USPZDkmx3m1E3eOr-jx
+Kirsten Justesen,Lunch For A Landscape##8AGWQgbl_eXlZw,Conceptual Art; Body Art,,,1975,,http://lh3.googleusercontent.com//DnM_Yf63MdPpJoZEJPVPj4F5OUf9qGjIR0HaPQrw0b1_eCNZYvYe-jmlx-42Ga0YMA4
+Kirsten Justesen,Portrait In Archive With Collection##TAGEdocZRCYwLw,Conceptual Art; Body Art,,,2013,,http://lh3.googleusercontent.com//eB24kqcGkBd-MS7_dBA9RmOVHpu74fFflINfqDqT244i2USPZDkmx3m1E3eOr-jx
+Cennino Cennini,Saint Gregory 1400,Proto Renaissance,religious painting,,1400,,https://uploads5.wikiart.org//images//cennino-cennini//saint-gregory-1400.jpg!Large.jpg
+Giulia Lama,Saturn Devouring His Child,Baroque,mythological painting,,1735,,https://uploads0.wikiart.org//images//giulia-lama//saturn-devouring-his-child.jpg!Large.jpg
+Giulia Lama,Judith And Holofernes 1730,Tenebrism,religious painting,,1730,,https://uploads0.wikiart.org//images//giulia-lama//judith-and-holofernes-1730.jpg!Large.jpg
+Giulia Lama,The Martyrdom Of Saint Eurosia,Tenebrism,religious painting,,1728,,https://uploads4.wikiart.org//images//giulia-lama//the-martyrdom-of-saint-eurosia.jpg!Large.jpg
+Giulia Lama,Self Portrait 1725,Tenebrism,self-portrait,,1725,,https://uploads0.wikiart.org//images//giulia-lama//self-portrait-1725.jpg
+Filippo Cifariello,Maria 1924,"Neoclassicism,Realism",sculpture,,1924,,https://uploads7.wikiart.org//00151//images//filippo-cifariello//maria-1.jpg!Large.jpg
+Filippo Cifariello,Return From Piedigrotta 1911,"Neoclassicism,Realism",sculpture,,1890 - 1911,,https://uploads6.wikiart.org//00151//images//filippo-cifariello//return-from-piedigrotta-1.jpg
+Filippo Cifariello,Portrait Of Ermete Novelli 1911,"Neoclassicism,Realism",sculpture,,1911,,https://uploads1.wikiart.org//00151//images//filippo-cifariello//portrait-of-ermete-novelli-1.jpg!Large.jpg
+Filippo Cifariello,Enrico Caruso 1899,"Neoclassicism,Realism",sculpture,,1899,,https://uploads6.wikiart.org//00151//images//filippo-cifariello//enrico-caruso-1.JPG!Large.JPG
+Filippo Cifariello,The Countess Fattori 1898,"Neoclassicism,Realism",sculpture,,1898,,https://uploads4.wikiart.org//00151//images//filippo-cifariello//the-countess-fattori-1.jpg!Large.jpg
+Filippo Cifariello,La Sciantosa 1886,"Neoclassicism,Realism",sculpture,,1886,,https://uploads7.wikiart.org//00151//images//filippo-cifariello//la-sciantosa-1.Jpeg!Large.Jpeg
+Yeghishe Tadevosyan,Self Portrait,Impressionism,"landscape,portrait",,,Armenia,https://uploads0.wikiart.org//00178//images//yeghishe-tadevosyan//selfportrait-yeghishe-tadevosiani.jpg!Large.jpg
+Yeghishe Tadevosyan,Garni 1934,"Realism,Impressionism","landscape,portrait",,,Armenia,https://uploads0.wikiart.org//images//yeghishe-tadevosyan//garni-1934.jpg
+Yeghishe Tadevosyan,Mountain Aragats 1917,Realism,"landscape,portrait",,,Armenia,https://uploads2.wikiart.org//images//yeghishe-tadevosyan//mountain-aragats-1917.jpg
+Yeghishe Tadevosyan,Saint Hripsime Church Etchmiadzin 1913,Impressionism,"landscape,portrait",,1913,Armenia,https://uploads1.wikiart.org//images//yeghishe-tadevosyan//saint-hripsime-church-etchmiadzin-1913.jpg
+Yeghishe Tadevosyan,The Genius And The Crowd 1909,Pointillism,"landscape,portrait",,,,https://uploads5.wikiart.org//images//yeghishe-tadevosyan//the-genius-and-the-crowd-1909(1).jpg!Large.jpg
+Yeghishe Tadevosyan,The Woman Reading In The Garden 1903,Impressionism,"landscape,portrait",,1903,,https://uploads0.wikiart.org//images//yeghishe-tadevosyan//the-woman-reading-in-the-garden-1903.jpg!Large.jpg
+Constantin Artachino,Sc Nteia The Spark 1951,Impressionism,genre painting,,1951,,https://uploads5.wikiart.org//images//constantin-artachino//sc-nteia-the-spark-1951.jpg
+Constantin Artachino,Small Bouquet Of Roses 1949,Realism,flower painting,,1949,,https://uploads0.wikiart.org//images//constantin-artachino//small-bouquet-of-roses-1949.jpg
+Constantin Artachino,Wild Roses 1944,Realism,flower painting,,1944,,https://uploads6.wikiart.org//images//constantin-artachino//wild-roses-1944.jpg
+Constantin Artachino,House On Capri Island 1899,Impressionism,landscape,,1899,,https://uploads0.wikiart.org//images//constantin-artachino//house-on-capri-island-1899.jpg!Large.jpg
+Thalia Flora Karavia,Portrait Of Yannis Tsarouchis 1942,Expressionism,"portrait,landscape",,1942,,https://uploads7.wikiart.org//images//thalia-flora-karavia//portrait-of-yannis-tsarouchis-1942.jpg
+Thalia Flora Karavia,Marie Bonaparte 1913,Expressionism,"portrait,landscape",,1913,,https://uploads2.wikiart.org//images//thalia-flora-karavia//marie-bonaparte-1913.jpg
+Thalia Flora Karavia,Bizani 1913,Expressionism,"portrait,landscape",,1913,,https://uploads3.wikiart.org//images//thalia-flora-karavia//bizani-1913.jpg!Large.jpg
+Thalia Flora Karavia,Nikopolis Molubi Se Kharti 1913,Impressionism,"portrait,landscape",,1913,,https://uploads2.wikiart.org//00142//images//thalia-flora-karavia//003-23-1913-25x33-5.jpg!Large.jpg
+Thalia Flora Karavia,Boy Reading 1906,Impressionism,"portrait,landscape",,1906,,https://uploads8.wikiart.org//images//thalia-flora-karavia//boy-reading-1906.jpg!Large.jpg
+Thalia Flora Karavia,Constantinople 1905,Impressionism,"portrait,landscape",,1905,,https://uploads2.wikiart.org//images//thalia-flora-karavia//constantinople-1905.jpg!Large.jpg
+Matej Sternen,Portrait Ing K 1940,Impressionism,portrait,,1940,,https://uploads3.wikiart.org//images//matej-sternen//portrait-ing-k-1940.jpg
+Matej Sternen,Le E I Akt 1914,Impressionism,nude painting (nu),,1914,,https://uploads8.wikiart.org//images//matej-sternen//le-e-i-akt-1914.jpg
+Matej Sternen,Springtime At The Sea 1911,Impressionism,landscape,,1911,,https://uploads1.wikiart.org//images//matej-sternen//springtime-at-the-sea-1911.jpg
+Matej Sternen,On The Couch 1909,Impressionism,portrait,,1909,,https://uploads2.wikiart.org//images//matej-sternen//on-the-couch-1909.jpg!Large.jpg
+Matej Sternen,The Red Parasol 1904,Impressionism,portrait,,1904,,https://uploads5.wikiart.org//images//matej-sternen//the-red-parasol-1904.jpg!Large.jpg
+Nikolai Kulbin,Portrait Of Vsevolod Meyerhold 1913,Expressionism,,,1913,,https://uploads8.wikiart.org//00103//images//nikolai-kulbin//portrait-of-vsevolod-meyerhold-1913.jpg!Large.jpg
+Nikolai Kulbin,Flight To The Egypt 1911,"Cubism,Expressionism",religious painting,,1911,,https://uploads6.wikiart.org//00103//images//nikolai-kulbin//flight-to-the-egypt-1911.jpg!Large.jpg
+Nikolai Kulbin,Flowers 1910,Expressionism,flower painting,,1910,,https://uploads3.wikiart.org//00103//images//nikolai-kulbin//flowers-1910.jpg!Large.jpg
+Nikolai Kulbin,Mimosa 1910,Futurism,flower painting,,1910,,https://uploads1.wikiart.org//00103//images//nikolai-kulbin//mimosa-1910.jpg
+Margaret Macdonald,The Little Hills 1915,Art Nouveau (Modern),,,1914 - 1915,,https://uploads3.wikiart.org//00187//images//margaret-macdonald//the-little-hills-1.jpg!Large.jpg
+Margaret Macdonald,The Silver Apples Of The Moon 1912,Art Nouveau (Modern),,,1912,,https://uploads3.wikiart.org//00187//images//margaret-macdonald//2011-cks-07994-0068-000-margaret-macdonald-mackintosh-the-silver-apples-of-the-moon-1912-1.jpg!Large.jpg
+Margaret Macdonald,The Three Perfumes 1912,Art Nouveau (Modern),,,1912,,https://uploads7.wikiart.org//00187//images//margaret-macdonald//mackintosh-margaret-macdonald-three-perfumes-1912.jpg!Large.jpg
+Margaret Macdonald,The Sleeping Princess 1908,Art Nouveau (Modern),,,1908,,https://uploads6.wikiart.org//00187//images//margaret-macdonald//the-sleeping-princess.jpg!Large.jpg
+Margaret Macdonald,The May Queen 1900,Art Nouveau (Modern),,,1900,,https://uploads0.wikiart.org//00187//images//margaret-macdonald//the-may-queen-1.jpg!Large.jpg
+Sydney Laurence,Cape St Elias 1928,Romanticism,landscape,,1928,,https://uploads5.wikiart.org//images//sydney-laurence//cape-st-elias-1928.jpg!Large.jpg
+Sydney Laurence,Mount Mckinley 1925,Romanticism,landscape,,1925,,https://uploads6.wikiart.org//images//sydney-laurence//mount-mckinley-1925.jpg!Large.jpg
+Sydney Laurence,Emard Salmon Cannery 1915,Romanticism,landscape,,1915,,https://uploads3.wikiart.org//images//sydney-laurence//emard-salmon-cannery-1915.jpg!Large.jpg
+Sydney Laurence,The Trapper 1914,Romanticism,landscape,,1914,,https://uploads3.wikiart.org//images//sydney-laurence//the-trapper-1914.jpg!Large.jpg
+Sydney Laurence,A Northern Frontier 1914,Romanticism,landscape,,1914,,https://uploads2.wikiart.org//images//sydney-laurence//a-northern-frontier-1914.jpg!Large.jpg
+Sydney Laurence,Sailing Off Gloucester Coast 1888,Romanticism,landscape,,1888,,https://uploads2.wikiart.org//images//sydney-laurence//sailing-off-gloucester-coast-1888.jpg!Large.jpg
+Panos Terlemezian,Egich Chubar Portrait 1933,Realism,"landscape,portrait",,1933,,https://uploads6.wikiart.org//images//panos-terlemezian//egich-chubar-portrait-1933.jpg!Large.jpg
+Panos Terlemezian,Axel Bakunts Portrait 1932,Realism,"landscape,portrait",,1932,,https://uploads5.wikiart.org//images//panos-terlemezian//axel-bakunts-portrait-1932.jpg
+Panos Terlemezian,Gurgen Mahari S Portrait 1932,Symbolism,"landscape,portrait",,1932,,https://uploads0.wikiart.org//images//panos-terlemezian//gurgen-mahari-s-portrait-1932.jpg!Large.jpg
+Panos Terlemezian,Mountains Dzoraget 1930,Realism,"landscape,portrait",,,Armenia,https://uploads2.wikiart.org//images//panos-terlemezian//mountains-dzoraget-1930.jpg
+Panos Terlemezian,Sevan 1917,Symbolism,"landscape,portrait",,1917,Armenia,https://uploads7.wikiart.org//images//panos-terlemezian//sevan-1917.jpg
+Panos Terlemezian,Musicologist Komitas 1913,Symbolism,"landscape,portrait",,1913,,https://uploads8.wikiart.org//images//panos-terlemezian//musicologist-komitas-1913(2).jpg!Large.jpg
+Benjamin Brown,Laguna Vista 1915,Impressionism,landscape,,1915,,https://uploads3.wikiart.org//images//benjamin-brown//laguna-vista-1915.jpg!Large.jpg
+Benjamin Brown,Art Palace S F Moonlight 1915,Impressionism,landscape,,1915,,https://uploads6.wikiart.org//images//benjamin-brown//art-palace-s-f-moonlight-1915.jpg!Large.jpg
+Benjamin Brown,Art Palace Reflections 1915,Impressionism,landscape,,1915,,https://uploads4.wikiart.org//images//benjamin-brown//art-palace-reflections-1915.jpg!Large.jpg
+Benjamin Brown,Sunrise Mission At Pala Near San Luis Rey 1898,Impressionism,landscape,,1898,,https://uploads5.wikiart.org//images//benjamin-brown//sunrise-mission-at-pala-near-san-luis-rey-1898.jpg!Large.jpg
+Benjamin Brown,Eleanora Muse In Blue Dress 1897,Impressionism,portrait,,1897,,https://uploads0.wikiart.org//images//benjamin-brown//eleanora-muse-in-blue-dress-1897.jpg!Large.jpg
+Louis Vivin,Le Moulin De La Galette 1926,Naïefve Art (Primitivism),cityscape,,1926,,https://uploads1.wikiart.org//images//louis-vivin//le-moulin-de-la-galette-1926.jpg
+Louis Vivin,Au Bord De La Rivi Re En Hiver 1930,Naïefve Art (Primitivism),cityscape,,1930,,https://uploads8.wikiart.org//images//louis-vivin//au-bord-de-la-rivi-re-en-hiver-1930.jpg
+Louis Vivin,The Wedding 1925,Naïefve Art (Primitivism),cityscape,,1925,,https://uploads7.wikiart.org//images//louis-vivin//the-wedding-1925.jpg
+Louis Vivin,Le Dejeuner Sur L Herbe 1925,Naïefve Art (Primitivism),cityscape,,1925,,https://uploads1.wikiart.org//images//louis-vivin//le-dejeuner-sur-l-herbe-1925.jpg
+Louis Wain,Blue Cat 1932,Art Nouveau (Modern),animal painting,,1932,,https://uploads3.wikiart.org//images//louis-wain//blue-cat-1932.jpg
+Louis Wain,K Little Kathleen Out With Her Kite It Broke From The String And Flew Out Of Sight 1914,Art Nouveau (Modern),animal painting,,1914,,https://uploads5.wikiart.org//images//louis-wain//k-little-kathleen-out-with-her-kite-it-broke-from-the-string-and-flew-out-of-sight-1914.jpg
+Louis Wain,Old Song The Cat Came Back 1906,Art Nouveau (Modern),animal painting,,1906,,https://uploads4.wikiart.org//images//louis-wain//old-song-the-cat-came-back-1906.jpg!Large.jpg
+Louis Wain,Catastrophies Are Off In 1902 Take Care How You Step Into The New Year December Is Rather A 1902,Art Nouveau (Modern),animal painting,,1902,,https://uploads6.wikiart.org//images//louis-wain//catastrophies-are-off-in-1902-take-care-how-you-step-into-the-new-year-december-is-rather-a-1902.jpg!Large.jpg
+Rubens Santoro,Verona Italy 1900,Realism,cityscape,,1900,,https://uploads3.wikiart.org//images//rubens-santoro//verona-italy-1900.jpg!Large.jpg
+Rubens Santoro,A Canal Scene Venice 1900,Realism,cityscape,,1900,,https://uploads2.wikiart.org//images//rubens-santoro//a-canal-scene-venice-1900.jpg!Large.jpg
+Rubens Santoro,Basket Makers In Naples 1878,Realism,cityscape,,1878,,https://uploads5.wikiart.org//images//rubens-santoro//basket-makers-in-naples-1878.jpg!Large.jpg
+Rubens Santoro,A Siesta In Sunshine 1878,Realism,cityscape,,1878,,https://uploads2.wikiart.org//images//rubens-santoro//a-siesta-in-sunshine-1878.jpg!Large.jpg
+Mildred Anne Butler,A Mother And Child By A River With Wild Roses 1919,Impressionism,"landscape,animal painting",,1919,,https://uploads3.wikiart.org//00128//images//mildred-anne-butler//a-mother-and-child-by-a-river-with-wild-roses-1919.jpg!Large.jpg
+Mildred Anne Butler,The Lilac Phlox Kilmurry Co Kilkenny 1912,Impressionism,"landscape,animal painting",,1912,,https://uploads2.wikiart.org//00128//images//mildred-anne-butler//the-lilac-phlox-kilmurry-co-kilkenny-1912.jpg
+Mildred Anne Butler,Morning Bath 1896,Impressionism,"landscape,animal painting",,1896,,https://uploads6.wikiart.org//00128//images//mildred-anne-butler//morning-bath-1896.jpg!Large.jpg
+Mildred Anne Butler,Meditation 1889,Impressionism,"landscape,animal painting",,1889,,https://uploads4.wikiart.org//00128//images//mildred-anne-butler//meditation-1889.jpeg
+Julian Falat,Winter Landscape With River And Bird,Impressionism,landscape,,1913,,https://uploads2.wikiart.org//00140//images//julian-falat//pejza-zimowy-z-rzek-i-ptakiem-1913-1.jpg!Large.jpg
+Julian Falat,Self Portrait In Winter Coat,Impressionism,landscape,,1917,,https://uploads0.wikiart.org//00140//images//julian-falat//autoportret-w-zimowym-okryciu-1917.jpg!Large.jpg
+Julian Falat,River Among Snow,Impressionism,landscape,,1917,,https://uploads7.wikiart.org//00140//images//julian-falat//rzeka-w-r-d-nieg-w-1917.jpg!Large.jpg
+Julian Falat,Lady With Red Earring,Impressionism,landscape,,1900,,https://uploads7.wikiart.org//00140//images//julian-falat//pani-z-czerwonym-kolczykiem-1900.jpg!Large.jpg
+Julian Falat,Self Portrait,Impressionism,landscape,,1896,,https://uploads0.wikiart.org//00140//images//julian-falat//autoportret-1896.jpg!Large.jpg
+Eduard Von Grutzner,Der Herr Forster 1920,Romanticism,portrait,,1920,,https://uploads4.wikiart.org//00152//images//eduard-von-grutzner//der-herr-f-rster-1920.jpg!Large.jpg
+Eduard Von Grutzner,Falstaff 1906,Romanticism,portrait,,1906,,https://uploads5.wikiart.org//00152//images//eduard-von-grutzner//falstaff-1906.jpg!Large.jpg
+Eduard Von Grutzner,The Catastrophe 1892,Romanticism,genre painting,,1892,,https://uploads3.wikiart.org//00152//images//eduard-von-grutzner//the-catastrophe-1892.jpg!Large.jpg
+Eduard Von Grutzner,Shaving Day At The Monestary 1887,Romanticism,genre painting,,1887,,https://uploads7.wikiart.org//00152//images//eduard-von-grutzner//shaving-day-at-the-monestary-1887.jpg!Large.jpg
+Eduard Von Grutzner,The Card Players 1883,Romanticism,genre painting,,1883,,https://uploads4.wikiart.org//00152//images//eduard-von-grutzner//the-card-players-1883.jpg!Large.jpg
+Eduard Von Grutzner,Das Glaschen Zur Starkung 1880,Romanticism,genre painting,,1880,,https://uploads4.wikiart.org//00152//images//eduard-von-grutzner//das-gl-schen-zur-st-rkung-1880.jpg!Large.jpg
+Robert Bateman,The Artist S Wife 1886,Romanticism,portrait,,1886,,https://uploads7.wikiart.org//images//robert-bateman//the-artist-s-wife-1886.jpg
+Robert Bateman,Appleton Thorn 1880,Romanticism,genre painting,,1880,,https://uploads5.wikiart.org//images//robert-bateman//appleton-thorn-1880.jpg!Large.jpg
+Robert Bateman,The Pool Of Bethesda 1877,Romanticism,religious painting,,1877,,https://uploads2.wikiart.org//images//robert-bateman//the-pool-of-bethesda-1877.jpg!Large.jpg
+Robert Bateman,Reading Of Love He Being By 1874,Romanticism,literary painting,,1874,,https://uploads8.wikiart.org//images//robert-bateman//reading-of-love-he-being-by-1874.jpg
+Alexandre Jacques Chantron,Cigale Nude Art 1918,Academicism,nude painting (nu),,1918,,https://uploads0.wikiart.org//00150//images//alexandre-jacques-chantron//cigale-nude.jpg
+Alexandre Jacques Chantron,Printemps 1918,Academicism,nude painting (nu),,1918,,https://uploads3.wikiart.org//00150//images//alexandre-jacques-chantron//printemps-nude.jpg
+Alexandre Jacques Chantron,A La Plage 1900,Impressionism,"nude painting (nu),genre painting",,1900,,https://uploads7.wikiart.org//00150//images//alexandre-jacques-chantron//alexandre-jacques-chantron.jpg!Large.jpg
+Alexandre Jacques Chantron,Danae 1891,Academicism,"nude painting (nu),mythological painting",, ; France,,https://uploads1.wikiart.org//00145//images//alexandre-jacques-chantron//alexandre-jacques-chantron-1891-danae-1.jpg!Large.jpg
+Anton Mauve,Landscape With Cattle 1888,Realism,landscape,,1888,,https://uploads0.wikiart.org//images//anton-mauve//landscape-with-cattle-1888.jpg!Large.jpg
+Anton Mauve,The Return Of The Flock Laren 1887,Realism,landscape,,1887,,https://uploads8.wikiart.org//images//anton-mauve//the-return-of-the-flock-laren-1887.jpg!Large.jpg
+Anton Mauve,Woman From Laren With Lamb 1885,Realism,landscape,,1885,,https://uploads5.wikiart.org//images//anton-mauve//woman-from-laren-with-lamb-1885.jpg!Large.jpg
+Anton Mauve,Fishing Boat On The Beach 1882,Realism,landscape,,1882,,https://uploads4.wikiart.org//images//anton-mauve//fishing-boat-on-the-beach-1882.jpg!Large.jpg
+Anton Mauve,A Dutch Road 1880,Realism,landscape,,1880,,https://uploads0.wikiart.org//images//anton-mauve//a-dutch-road-1880.jpg!Large.jpg
+Anton Mauve,Morning Ride On The Beach 1876,Realism,landscape,,1876,,https://uploads4.wikiart.org//images//anton-mauve//morning-ride-on-the-beach-1876.jpg!Large.jpg
+Charles Hermans,Circe The Temptress 1881,Realism,genre painting,,1881,,https://uploads2.wikiart.org//images//charles-hermans//circe-the-temptress-1881.jpg!Large.jpg
+Charles Hermans,L Aube 1875,Realism,genre painting,,1875,,https://uploads7.wikiart.org//images//charles-hermans//l-aube-1875.jpg!Large.jpg
+Charles Hermans,L Aube Detail 1875,Realism,genre painting,,1875,,https://uploads4.wikiart.org//images//charles-hermans//l-aube-detail-1875.jpg
+Charles Hermans,Honeymoon 1871,Realism,genre painting,,1871,,https://uploads1.wikiart.org//images//charles-hermans//honeymoon-1871.jpg!Large.jpg
+Charles Hermans,Monks Playing Bowls 1867,Realism,genre painting,,1867,,https://uploads1.wikiart.org//images//charles-hermans//monks-playing-bowls-1867.jpg
+Franz Richard Unterberger,Giudecca Canal,Romanticism,cityscape,,1895 - 1900,,https://uploads2.wikiart.org//images//franz-richard-unterberger//giudecca-canal.jpg!Large.jpg
+Franz Richard Unterberger,The Monreale Road Palermo 1884,Romanticism,cityscape,,1884,,https://uploads0.wikiart.org//images//franz-richard-unterberger//the-monreale-road-palermo-1884.jpg!Large.jpg
+Franz Richard Unterberger,Capri,Romanticism,cityscape,,1875 - 1880,,https://uploads2.wikiart.org//images//franz-richard-unterberger//capri.jpg!Large.jpg
+Franz Richard Unterberger,The Last Day Of The Harvest 1860,Romanticism,cityscape,,1860,,https://uploads2.wikiart.org//images//franz-richard-unterberger//the-last-day-of-the-harvest-1860.jpg!Large.jpg
+Henry Moore Ra,Henry Moore 1895,Realism,"landscape,marina",,1895,,https://uploads2.wikiart.org//00132//images//henry-moore-ra//henry-moore-by-henry-moore.jpg!Large.jpg
+Henry Moore Ra,Mounts Bay Early Morning In The Summer 1886,Realism,"landscape,marina",,1886,,https://uploads6.wikiart.org//00132//images//henry-moore-ra//mount-s-bay-early-morning-in-the-summer.jpg!Large.jpg
+Henry Moore Ra,Catspaws Off The Land 1885,Realism,"landscape,marina",,1885,,https://uploads6.wikiart.org//00132//images//henry-moore-ra//catspaws-off-the-land.jpg!Large.jpg
+Henry Moore Ra,Newhaven Packet 1885,Realism,"landscape,marina",,1885,,https://uploads0.wikiart.org//00132//images//henry-moore-ra//newhaven-packet.jpg!Large.jpg
+Henry Moore Ra,After Rain 1872,Realism,"landscape,marina",,1872,,https://uploads4.wikiart.org//00132//images//henry-moore-ra//after-rain.jpg!Large.jpg
+Henry Moore Ra,The Rainbow 1865,Realism,"landscape,marina",,1865,,https://uploads0.wikiart.org//00132//images//henry-moore-ra//moore-henry-the-rainbow-1865-oil-on-canvas.jpg!Large.jpg
+Konstantin Dmitriyevich Flavitsky,Princess Tarakanova In The Peter And Paul Fortress At The Time Of The Flood 1864 1,Romanticism,history painting,,1864,,https://uploads6.wikiart.org//images//konstantin-dmitriyevich-flavitsky//princess-tarakanova-in-the-peter-and-paul-fortress-at-the-time-of-the-flood-1864-1.jpg!Large.jpg
+Konstantin Dmitriyevich Flavitsky,Christian Martyrs In The Colosseum 1862,Romanticism,history painting,,1862,,https://uploads8.wikiart.org//images//konstantin-dmitriyevich-flavitsky//christian-martyrs-in-the-colosseum-1862.jpg!Large.jpg
+Konstantin Dmitriyevich Flavitsky,Children Of Jacob Sell His Brother Joseph 1855,Romanticism,religious painting,,1855,,https://uploads6.wikiart.org//images//konstantin-dmitriyevich-flavitsky//children-of-jacob-sell-his-brother-joseph-1855.jpg!Large.jpg
+Konstantin Dmitriyevich Flavitsky,Judgment Of Solomon 1854,Romanticism,religious painting,,1854,,https://uploads2.wikiart.org//images//konstantin-dmitriyevich-flavitsky//judgment-of-solomon-1854.jpg!Large.jpg
+August Friedrich Schenck,Lorphelin Souvenir Dauvergne 1885,"Romanticism,Naturalism","animal painting,landscape",,1885,,https://uploads3.wikiart.org//00206//images//august-friedrich-schenck//l-orphelin-souvenir-d-auvergne.jpg
+August Friedrich Schenck,Anguish,"Romanticism,Naturalism","animal painting,landscape",,1878,,https://uploads0.wikiart.org//00206//images//august-friedrich-schenck//fd101810.jpg!Large.jpg
+August Friedrich Schenck,Souvenir Of Auvergne 1873,"Romanticism,Naturalism","animal painting,landscape",,1873,,https://uploads6.wikiart.org//00206//images//august-friedrich-schenck//1lost.jpg!Large.jpg
+August Friedrich Schenck,Sheep In A Meadow 1865,"Romanticism,Naturalism","animal painting,landscape",,1865,,https://uploads7.wikiart.org//00206//images//august-friedrich-schenck//sheep-in-a-meadow-1865.Jpeg!Large.Jpeg
+John Varley,Classical Landscape Composition 1835,Romanticism,landscape,,1835,,https://uploads1.wikiart.org//images//john-varley//classical-landscape-composition-1835.jpg!Large.jpg
+John Varley,Avenue And Castle 1831,Romanticism,landscape,,1831,,https://uploads5.wikiart.org//images//john-varley//avenue-and-castle-1831.jpg!Large.jpg
+John Varley,Holy Island Castle 1810,Romanticism,landscape,,1810,,https://uploads6.wikiart.org//images//john-varley//holy-island-castle-1810.jpg!Large.jpg
+John Varley,Suburbs Of An Ancient City 1808,Romanticism,cityscape,,1808,,https://uploads5.wikiart.org//images//john-varley//suburbs-of-an-ancient-city-1808.jpg!Large.jpg
+John Varley,An Ancient Castle Sketching Society Subject 1807,Romanticism,landscape,,1807,,https://uploads4.wikiart.org//images//john-varley//an-ancient-castle-sketching-society-subject-1807.jpg!Large.jpg
+John Varley,View Of Bodenham And The Malvern Hills Herefordshire 1801,Romanticism,landscape,,1801,,https://uploads4.wikiart.org//images//john-varley//view-of-bodenham-and-the-malvern-hills-herefordshire-1801.jpg!Large.jpg
+Mikhail Shibanov,Portrait Of Empress Catherine Ii With Traveling Dress 1787,Neoclassicism,"genre painting,portrait",, ; Russian Federation,,https://uploads1.wikiart.org//images//mikhail-shibanov//portrait-of-empress-catherine-ii-with-traveling-dress-1787.jpg!Large.jpg
+Mikhail Shibanov,St Catherine 1786,Neoclassicism,"genre painting,portrait",,,,https://uploads5.wikiart.org//images//mikhail-shibanov//st-catherine-1786.jpg!Large.jpg
+Mikhail Shibanov,Alexandr Matveevich Dmitriev Mamonov,Neoclassicism,"genre painting,portrait",,,,https://uploads6.wikiart.org//images//mikhail-shibanov//alexandr-matveevich-dmitriev-mamonov.jpg!Large.jpg
+Mikhail Shibanov,The Celebration Of The Wedding Agreement 1777,Neoclassicism,"genre painting,portrait",, ; Russian Federation,,https://uploads6.wikiart.org//images//mikhail-shibanov//the-celebration-of-the-wedding-agreement-1777.jpg!Large.jpg
+Mikhail Shibanov,Peasants Meal 1774,Neoclassicism,"genre painting,portrait",, ; Russian Federation,,https://uploads5.wikiart.org//images//mikhail-shibanov//peasants-meal-1774.jpg
+Mikhail Shibanov,Portrait Of A G Spiridov 1772,Neoclassicism,"genre painting,portrait",, ; Russian Federation,,https://uploads8.wikiart.org//images//mikhail-shibanov//portrait-of-a-g-spiridov-1772.jpg!Large.jpg
+Christoffer Wilhelm Eckersberg,Woman Standing In Front Of A Mirror 1841,Neoclassicism,nude painting (nu),,1841,,https://uploads6.wikiart.org//images//christoffer-wilhelm-eckersberg//woman-standing-in-front-of-a-mirror-1841.jpg!Large.jpg
+Christoffer Wilhelm Eckersberg,Female Model Florentine 1840,Neoclassicism,nude painting (nu),,1840,,https://uploads2.wikiart.org//images//christoffer-wilhelm-eckersberg//female-model-florentine-1840.jpg
+Christoffer Wilhelm Eckersberg,The Marble Staircase Which Leads Up To S Maria In Aracoeli In Rome 1816,Neoclassicism,cityscape,,1816,,https://uploads1.wikiart.org//images//christoffer-wilhelm-eckersberg//the-marble-staircase-which-leads-up-to-s-maria-in-aracoeli-in-rome-1816.jpg!Large.jpg
+Christoffer Wilhelm Eckersberg,Socrates And Alcibiades 1816,Neoclassicism,literary painting,,1816,,https://uploads3.wikiart.org//images//christoffer-wilhelm-eckersberg//socrates-and-alcibiades-1816.jpg!Large.jpg
+Christoffer Wilhelm Eckersberg,Portrait Of Anna Maria Magnani 1814,Neoclassicism,portrait,,1814,,https://uploads1.wikiart.org//images//christoffer-wilhelm-eckersberg//portrait-of-anna-maria-magnani-1814.jpg!Large.jpg
+Constantin Daniel Rosenthal,Romania Breaking Off Her Chains On The Field Of Liberty 1849,Romanticism,allegorical painting,,1849,,https://uploads4.wikiart.org//images//constantin-daniel-rosenthal//romania-breaking-off-her-chains-on-the-field-of-liberty-1849.jpg
+Constantin Daniel Rosenthal,Vanitas 1848,Romanticism,vanitas,,1848,,https://uploads1.wikiart.org//images//constantin-daniel-rosenthal//vanitas-1848.jpg
+Constantin Daniel Rosenthal,Revolutionary Romania 1848,Romanticism,allegorical painting,,1848,,https://uploads7.wikiart.org//images//constantin-daniel-rosenthal//revolutionary-romania-1848.jpg!Large.jpg
+Constantin Daniel Rosenthal,Portrait Of Teodor Arion 1848,Romanticism,portrait,,1848,,https://uploads1.wikiart.org//images//constantin-daniel-rosenthal//portrait-of-teodor-arion-1848.jpg!Large.jpg
+Constantin Daniel Rosenthal,Doctorul Grunau 1846,Romanticism,portrait,,1846,,https://uploads1.wikiart.org//images//constantin-daniel-rosenthal//doctorul-grunau-1846.jpg!Large.jpg
+Constantin Daniel Rosenthal,Portrait Of A Woman 1844,Romanticism,portrait,,1844,,https://uploads5.wikiart.org//images//constantin-daniel-rosenthal//portrait-of-a-woman-1844.jpg!Large.jpg
+Gustave Boulanger,The Slave Market 1882,Academicism,genre painting,,1882,,https://uploads1.wikiart.org//images//gustave-boulanger//the-slave-market-1882.jpg!Large.jpg
+Gustave Boulanger,It S The Emir 1870,Orientalism,genre painting,,1870,,https://uploads7.wikiart.org//images//gustave-boulanger//it-s-the-emir-1870.jpg!Large.jpg
+Gustave Boulanger,Theatrical Rehearsal In The House Of An Ancient Rome Poet,Academicism,genre painting,,1855,,https://uploads1.wikiart.org//images//gustave-boulanger//theatrical-rehearsal-in-the-house-of-an-ancient-rome-poet.jpg!Large.jpg
+Gustave Boulanger,Phryne 1850,Academicism,nude painting (nu),,1850,,https://uploads8.wikiart.org//images//gustave-boulanger//phryne-1850.jpg
+Manuel Rodriguez De Guzman,Rinconcete Y Cortadillo 1865,Costumbrismo,genre painting,,1865,,https://uploads8.wikiart.org//images//manuel-rodriguez-de-guzman//rinconcete-y-cortadillo-1865.jpg!Large.jpg
+Manuel Rodriguez De Guzman,La Feria De Santiponce 1855,Costumbrismo,genre painting,,1855,,https://uploads7.wikiart.org//images//manuel-rodriguez-de-guzman//la-feria-de-santiponce-1855.jpg!Large.jpg
+Manuel Rodriguez De Guzman,Juerga Flamenca En La Feria 1854,Costumbrismo,genre painting,,1854,,https://uploads2.wikiart.org//images//manuel-rodriguez-de-guzman//juerga-flamenca-en-la-feria-1854.jpg
+Manuel Rodriguez De Guzman,Lady Of Sevilla 1851,Costumbrismo,portrait,,1851,,https://uploads8.wikiart.org//images//manuel-rodriguez-de-guzman//lady-of-sevilla-1851.jpg
+Manuel Rodriguez De Guzman,Majo 1846,Costumbrismo,portrait,,1846,,https://uploads7.wikiart.org//images//manuel-rodriguez-de-guzman//majo-1846.jpg!Large.jpg
+Frederick William Burton,Miss Burton 1865,Romanticism,portrait,,1865,,https://uploads7.wikiart.org//00188//images//frederick-william-burton//dante-gabriel-rossetti-miss-burton.jpg!Large.jpg
+Frederick William Burton,George Eliot 1865,Romanticism,portrait,,1865,,https://uploads8.wikiart.org//00188//images//frederick-william-burton//george-eliot-1865-by-frederick-william-burton.jpg
+Frederick William Burton,Dreams 1863,Romanticism,portrait,,1863,,https://uploads0.wikiart.org//00188//images//frederick-william-burton//fw-burton.jpg!Large.jpg
+Frederick William Burton,The Aran Fishermans Child 1841,Romanticism,genre painting,,1841,,https://uploads4.wikiart.org//00188//images//frederick-william-burton//thearanfishermanschild.jpg!Large.jpg
+Leonardo Alenza,The Viaticum 1840,Costumbrismo,genre painting,,1840,,https://uploads4.wikiart.org//images//leonardo-alenza//the-viaticum-1840.jpg!Large.jpg
+Leonardo Alenza,Satire Of The Romantic Suicide 1839,Romanticism,caricature,,1839,,https://uploads4.wikiart.org//images//leonardo-alenza//satire-of-the-romantic-suicide-1839.jpg!Large.jpg
+Leonardo Alenza,El Sacamuelas 1844,Costumbrismo,genre painting,,1844,,https://uploads4.wikiart.org//images//leonardo-alenza//el-sacamuelas-1844.jpg
+Leonardo Alenza,Satire Of Suicide From Love 1839,Romanticism,caricature,,1839,,https://uploads1.wikiart.org//images//leonardo-alenza//satire-of-suicide-from-love-1839.jpg!Large.jpg
+Charles Martin Powell,A Fishing Lugger And Customs Boat Off A Coastal Town 1823,Academicism,marina,,1823,,https://uploads5.wikiart.org//images//charles-martin-powell//a-fishing-lugger-and-customs-boat-off-a-coastal-town-1823.jpg!Large.jpg
+Charles Martin Powell,A Third Rate Entering Port Mahon 1820,Academicism,marina,,1820,,https://uploads3.wikiart.org//images//charles-martin-powell//a-third-rate-entering-port-mahon-1820.jpg!Large.jpg
+Charles Martin Powell,View Near Llangaddock Carmarthenshire 1814,Academicism,marina,,1814,,https://uploads8.wikiart.org//images//charles-martin-powell//view-near-llangaddock-carmarthenshire-1814.jpg!Large.jpg
+Charles Martin Powell,Hastings East Sussex 1814,Academicism,marina,,1814,,https://uploads0.wikiart.org//images//charles-martin-powell//hastings-east-sussex-1814.jpg!Large.jpg
+Charles Martin Powell,Hms Enchantress In The River Dart 1804,Academicism,marina,,1804,,https://uploads4.wikiart.org//images//charles-martin-powell//hms-enchantress-in-the-river-dart-1804.jpg!Large.jpg
+Charles Martin Powell,The Battle Of St Vincent 14 Februrary 1797,Academicism,marina,,1797,,https://uploads8.wikiart.org//images//charles-martin-powell//the-battle-of-st-vincent-14-februrary-1797.jpg!Large.jpg
+Pieter Van Hanselaere,Le Brigand Blesse 1827,Neoclassicism,genre painting,,1827,,https://uploads1.wikiart.org//00119//images//pieter-van-hanselaere//le-brigand-bless-1827.jpg
+Pieter Van Hanselaere,Encouragement Before The Battle 1825,Neoclassicism,genre painting,,1825,,https://uploads8.wikiart.org//00119//images//pieter-van-hanselaere//encouragement-before-the-battle-1825.jpg!Large.jpg
+Pieter Van Hanselaere,Self Portrait 1824,Neoclassicism,self-portrait,,1824,,https://uploads1.wikiart.org//00119//images//pieter-van-hanselaere//self-portrait-1824.jpeg!Large.jpeg
+Pieter Van Hanselaere,Young Woman With Hat And Grapes 1820,Neoclassicism,portrait,,1820,,https://uploads8.wikiart.org//00119//images//pieter-van-hanselaere//young-woman-with-hat-and-grapes-1820.jpg!Large.jpg
+Pieter Van Hanselaere,Susanna And The Elders 1820,Neoclassicism,religious painting,,1820,,https://uploads8.wikiart.org//00119//images//pieter-van-hanselaere//susanna-and-the-elders-1820.jpg!Large.jpg
+Pieter Van Hanselaere,Self Portrait 1817,Neoclassicism,self-portrait,,1817,,https://uploads8.wikiart.org//00119//images//pieter-van-hanselaere//self-portrait-1817.jpg!Large.jpg
+Vieira Portuense,Dona Filipa De Vilhena Knighting Her Sons 1891,Neoclassicism,history painting,,1801,,https://uploads6.wikiart.org//images//vieira-portuense//dona-filipa-de-vilhena-knighting-her-sons-1891.jpg
+Vieira Portuense,Retrato De Uma Mulher 1800,Rococo,portrait,,1800,,https://uploads5.wikiart.org//images//vieira-portuense//retrato-de-uma-mulher-1800.jpg!Large.jpg
+Vieira Portuense,Leda E O Cisne 1798,Neoclassicism,mythological painting,,1798,,https://uploads6.wikiart.org//images//vieira-portuense//leda-e-o-cisne-1798.jpg
+Vieira Portuense,Fuga De Margarida De Anjou Epis Dio Da Guerra Das Duas Rosas 1798,Neoclassicism,history painting,,1798,,https://uploads7.wikiart.org//images//vieira-portuense//fuga-de-margarida-de-anjou-epis-dio-da-guerra-das-duas-rosas-1798.jpg
+Vieira Portuense,Modelo Masculino 1792,Neoclassicism,nude painting (nu),,1792,,https://uploads8.wikiart.org//images//vieira-portuense//modelo-masculino-1792.jpg
+Marie Guillemine Benoist,Portrait Of Napoleona Elisa Baciocchi 1810,Neoclassicism,"genre painting,history painting",,1810,,https://uploads1.wikiart.org//images//marie-guillemine-benoist//portrait-of-napoleona-elisa-baciocchi-1810.jpg
+Marie Guillemine Benoist,Portrait Of Pauline Bonaparte 1808,Neoclassicism,"genre painting,history painting",,1808,,https://uploads3.wikiart.org//images//marie-guillemine-benoist//portrait-of-pauline-bonaparte-1808.jpg!Large.jpg
+Marie Guillemine Benoist,Portrait Of Elisa Bonaparte Grand Duchess Of Tuscany 1805,Neoclassicism,"genre painting,history painting",,1805,,https://uploads8.wikiart.org//images//marie-guillemine-benoist//portrait-of-elisa-bonaparte-grand-duchess-of-tuscany-1805.jpg!Large.jpg
+Marie Guillemine Benoist,Portrait D Une N Gresse 1800,Neoclassicism,"genre painting,history painting",,1800,,https://uploads6.wikiart.org//images//marie-guillemine-benoist//portrait-d-une-n-gresse-1800.jpg!Large.jpg
+Marie Guillemine Benoist,Portrait Of A Lady 1799,Neoclassicism,"genre painting,history painting",,1799,,https://uploads1.wikiart.org//images//marie-guillemine-benoist//portrait-of-a-lady-1799.jpg!Large.jpg
+Marie Guillemine Benoist,Self Portrait 1790,Neoclassicism,"genre painting,history painting",,1790,,https://uploads4.wikiart.org//images//marie-guillemine-benoist//self-portrait-1790.jpg
+Ike No Taiga,Lighting A Charcoal Brazier Possibly In Preparation For A Tea Ceremony 1776,Nanga (Bunjinga),genre painting,,1776,,https://uploads5.wikiart.org//images//ike-no-taiga//lighting-a-charcoal-brazier-possibly-in-preparation-for-a-tea-ceremony-1776.jpg!Large.jpg
+Ike No Taiga,Chobenzu 1771,Nanga (Bunjinga),genre painting,,1771,,https://uploads6.wikiart.org//images//ike-no-taiga//chobenzu-1771.jpg!Large.jpg
+Ike No Taiga,Impressive View Of The Go River 1769,Nanga (Bunjinga),landscape,,1769,,https://uploads2.wikiart.org//images//ike-no-taiga//impressive-view-of-the-go-river-1769.jpg!Large.jpg
+Ike No Taiga,Landscape With Yueyang Tower 1750,Nanga (Bunjinga),landscape,,1750,,https://uploads8.wikiart.org//images//ike-no-taiga//landscape-with-yueyang-tower-1750.jpg!Large.jpg
+Ike No Taiga,Landscape With Pavilion Hanging Scroll 1750,Nanga (Bunjinga),landscape,,1750,,https://uploads0.wikiart.org//images//ike-no-taiga//landscape-with-pavilion-hanging-scroll-1750.jpg!Large.jpg
+Ike No Taiga,Fishing In Springtime 1747,Nanga (Bunjinga),landscape,,1747,,https://uploads1.wikiart.org//images//ike-no-taiga//fishing-in-springtime-1747.jpg!Large.jpg
+Jose Luzan,Dream Of Joseph 1770,Baroque,religious painting,,1770,,https://uploads1.wikiart.org//00118//images//jose-luzan//dream-of-joseph-1770.jpeg!Large.jpeg
+David Morier,Grenadier Regents,Rococo,"history painting,portrait",,1721,,https://uploads0.wikiart.org//00130//images//david-morier//moriergrenadiersregts464748-1721-65.jpg!Large.jpg
+David Morier,William Kerr 4Th Marquess Of Lothian On A Charger 1751,Rococo,"history painting,portrait",,1751,,https://uploads3.wikiart.org//00130//images//david-morier//william-kerr-4th-marquess-of-lothian-on-a-charger-by-david-morier.jpg!Large.jpg
+David Morier,William Augustus Duke Of Cumberland 1750,Rococo,"history painting,portrait",,1750,,https://uploads5.wikiart.org//00137//images//david-morier//william-augustus-duke-of-cumberland-1750.jpg!Large.jpg
+David Morier,Battle Of Culloden 1746,Rococo,"history painting,portrait",,1746,,https://uploads4.wikiart.org//00130//images//david-morier//battle-of-culloden-woodcut-painting-1746.jpg
+David Morier,The Battle Of Culloden 1746,Rococo,"history painting,portrait",,1746,,https://uploads1.wikiart.org//00130//images//david-morier//the-battle-of-culloden-1746.jpg!Large.jpg
+David Morier,Major General The Honourable Sir Charles Howard Cb Colonel Of The Regiment 1745,Rococo,"history painting,portrait",,1745,,https://uploads8.wikiart.org//00137//images//david-morier//major-general-the-honourable-sir-charles-howard-cb-colonel-of-the-regiment-1745.jpg!Large.jpg
+Jose Luzan,La Venida De La Virgen Del Pilar A Zaragoza 1765,Baroque,religious painting,,1765,,https://uploads0.wikiart.org//00118//images//jose-luzan//la-venida-de-la-virgen-del-pilar-a-zaragoza-1765.jpg!Large.jpg
+Jose Luzan,San Valero San Vicente Martir San Pedro Arbues Y Santo Dominguito De Val En La Gloria 1757,Baroque,religious painting,,1757,,https://uploads6.wikiart.org//00118//images//jose-luzan//san-valero-san-vicente-m-rtir-san-pedro-arbu-s-y-santo-dominguito-de-val-en-la-gloria-1757.jpg!Large.jpg
+Jose Luzan,San Jose Y El Nino Jesus 1750,Baroque,religious painting,,1750,,https://uploads7.wikiart.org//00118//images//jose-luzan//san-jos-y-el-ni-o-jes-s-1750.jpg!Large.jpg
+Yosa Buson,Landscape With A Solitary Traveler 1780,Ink and wash painting,landscape,,1780,,https://uploads3.wikiart.org//images//yosa-buson//landscape-with-a-solitary-traveler-1780.jpg!Large.jpg
+Yosa Buson,Snowclad Houses In The Night 1778,Ink and wash painting,landscape,,1778,,https://uploads6.wikiart.org//images//yosa-buson//snowclad-houses-in-the-night-1778.jpg!Large.jpg
+Yosa Buson,Sengyo Jugijo 1771,Ink and wash painting,genre painting,,1771,,https://uploads0.wikiart.org//images//yosa-buson//sengyo-jugijo-1771.jpg!Large.jpg
+Yosa Buson,Self Portrait Haiga 1771,Ink and wash painting,self-portrait,,1771,,https://uploads5.wikiart.org//images//yosa-buson//self-portrait-haiga-1771.jpg
+Yosa Buson,Enjoyment Of Summer Scenery 1771,Ink and wash painting,landscape,,1771,,https://uploads5.wikiart.org//images//yosa-buson//enjoyment-of-summer-scenery-1771.jpg!Large.jpg
+Yosa Buson,Travelers On Horseback On A Mountain In Spring 1770,Ink and wash painting,landscape,,1770,,https://uploads5.wikiart.org//images//yosa-buson//travelers-on-horseback-on-a-mountain-in-spring-1770.jpg
+Juriaen Van Streeck,Vanitas Still Life With Feather Fan,Baroque,still life,,,,https://uploads1.wikiart.org//00141//images//juriaen-van-streeck//f989ob8pws.jpg!Large.jpg
+Juriaen Van Streeck,Appetizer,Baroque,still life,,1670,,https://uploads2.wikiart.org//00141//images//juriaen-van-streeck//v7-gekeysaw.jpg!Large.jpg
+Juriaen Van Streeck,Still Life Orange Lemon And Wine In A Glass,Baroque,still life,,1670,,https://uploads6.wikiart.org//00141//images//juriaen-van-streeck//still-life-orange-lemon-and-wine-in-the-glass-1670-juriaen-van-streeck.jpg
+Juriaen Van Streeck,Appetizer 0,Baroque,still life,,,,https://uploads2.wikiart.org//00141//images//juriaen-van-streeck//yi567wiy9ue.jpg!Large.jpg
+Juriaen Van Streeck,Smoker,Baroque,still life,,,,https://uploads6.wikiart.org//00141//images//juriaen-van-streeck//10820-foto-1-03.jpg!Large.jpg
+Bada Shanren,Two Birds 1705,Ink and wash painting,bird-and-flower painting,,1705,,https://uploads7.wikiart.org//images//bada-shanren//two-birds-1705.jpg!Large.jpg
+Bada Shanren,Mynah Bird On An Old Tree 1703,Ink and wash painting,animal painting,,1703,,https://uploads5.wikiart.org//images//bada-shanren//mynah-bird-on-an-old-tree-1703.jpg!Large.jpg
+Bada Shanren,Chrysantheme 1962,Ink and wash painting,flower painting,,1692,,https://uploads0.wikiart.org//images//bada-shanren//chrysantheme-1962.jpg
+Bada Shanren,Flower In Jar 1689,Ink and wash painting,flower painting,,1689,,https://uploads1.wikiart.org//images//bada-shanren//flower-in-jar-1689.jpg
+Theodoor Van Thulden,Return Of Peace,Baroque,allegorical painting,,1657,,https://uploads7.wikiart.org//images//theodoor-van-thulden//return-of-peace.jpg!Large.jpg
+Theodoor Van Thulden,Time Reveals The Truth,Baroque,allegorical painting,,1657,,https://uploads5.wikiart.org//images//theodoor-van-thulden//time-reveals-the-truth.jpg!Large.jpg
+Theodoor Van Thulden,Harmony And Marriage,Baroque,allegorical painting,,1652,,https://uploads3.wikiart.org//images//theodoor-van-thulden//harmony-and-marriage.jpg!Large.jpg
+Theodoor Van Thulden,Dutch Virgin And Frederik,Baroque,allegorical painting,,1651,,https://uploads8.wikiart.org//images//theodoor-van-thulden//dutch-virgin-and-frederik.jpg!Large.jpg
+Johannes Moreelse,Heraclitus 1630 0,Baroque,portrait,,,,https://uploads7.wikiart.org//00206//images//johannes-moreelse//johannes-moreelse-heraclitus-google-art-project-1.jpg!Large.jpg
+Johannes Moreelse,Democritus 1630,Baroque,"portrait,tronie",,,,https://uploads2.wikiart.org//00206//images//johannes-moreelse//utrecht-moreelse-democrite.JPG!Large.JPG
+Johannes Moreelse,Democritus 1630 0,Baroque,portrait,,1630,,https://uploads2.wikiart.org//00207//images//johannes-moreelse//democritus-c-1630.jpg!Large.jpg
+Johannes Moreelse,Saint Jean Baptiste 1630,Baroque,religious painting,,1630,,https://uploads2.wikiart.org//00207//images//johannes-moreelse//saint-jean-baptiste-c-1630.jpg!Large.jpg
+Johannes Moreelse,The Repentance Of Saint Peter 1630,Baroque,religious painting,,1630,,https://uploads5.wikiart.org//00207//images//johannes-moreelse//the-repentance-of-saint-peter-c-1630-1.JPG!Large.JPG
+Adam Van Noort,Final Battle Of The Siege Of Troy 1625,Baroque,"battle painting,mythological painting",,1625,,https://uploads3.wikiart.org//00115//images//adam-van-noort//final-battle-of-the-siege-of-troy-1625.jpg!Large.jpg
+Adam Van Noort,Portrait Of A Bearded Man At Age 32 1615,Baroque,portrait,,1615,,https://uploads5.wikiart.org//00115//images//adam-van-noort//portrait-of-a-bearded-man-at-age-32-1615.jpg!Large.jpg
+Adam Van Noort,The Preaching Of John The Baptist 1601,"Mannerism (Late Renaissance),Baroque",religious painting,,1601,,https://uploads3.wikiart.org//00115//images//adam-van-noort//the-preaching-of-john-the-baptist-1601.png!Large.png
+Adam Van Noort,Christ Blessing The Little Children 1600,Mannerism (Late Renaissance),religious painting,,1600,,https://uploads5.wikiart.org//00115//images//adam-van-noort//christ-blessing-the-little-children-1600.jpg!Large.jpg
+Adam Van Noort,Minerva Teaches Pictura 1598,Mannerism (Late Renaissance),mythological painting,,1598,,https://uploads2.wikiart.org//00115//images//adam-van-noort//minerva-teaches-pictura-1598.png!Large.png
+Adam Van Noort,Lady Godiva 1586,Mannerism (Late Renaissance),"history painting,mythological painting",,1586,,https://uploads8.wikiart.org//00115//images//adam-van-noort//lady-godiva-1586.jpg!Large.jpg
+Osias Beert,Dishes With Oysters Fruit And Wine 1625,Baroque,still life,,1625,,https://uploads4.wikiart.org//images//osias-beert//dishes-with-oysters-fruit-and-wine-1625.jpg!Large.jpg
+Osias Beert,Still Life With Artichokes 1610,Baroque,still life,,1610,,https://uploads5.wikiart.org//images//osias-beert//still-life-with-artichokes-1610.jpg!Large.jpg
+Osias Beert,Still Life Of Fruit 1610,Baroque,still life,,1610,,https://uploads7.wikiart.org//images//osias-beert//still-life-of-fruit-1610.jpg!Large.jpg
+Osias Beert,Still Life With Oysters And Pastries 1610,Baroque,still life,,1610,,https://uploads6.wikiart.org//images//osias-beert//still-life-with-oysters-and-pastries-1610.jpg!Large.jpg
+Osias Beert,Still Life With Cherries And Strawberries In China Bowls 1608,Baroque,still life,,1608,,https://uploads8.wikiart.org//images//osias-beert//still-life-with-cherries-and-strawberries-in-china-bowls-1608.jpg!Large.jpg
+Osias Beert,Still Life Of Fruit In A Wan Li Bowl 1607,Baroque,still life,,1607,,https://uploads5.wikiart.org//images//osias-beert//still-life-of-fruit-in-a-wan-li-bowl-1607.jpg
+Barbara Longhi,Madonna Adoring The Child 1605,Mannerism (Late Renaissance),portrait,,1605,,https://uploads7.wikiart.org//images//barbara-longhi//madonna-adoring-the-child-1605.jpg!Large.jpg
+Barbara Longhi,Dama Con L Unicorno 1605,Mannerism (Late Renaissance),portrait,,1605,,https://uploads0.wikiart.org//images//barbara-longhi//dama-con-l-unicorno-1605.jpg
+Barbara Longhi,Virgin And Child With Saint 1595,Mannerism (Late Renaissance),portrait,,1595,,https://uploads8.wikiart.org//images//barbara-longhi//virgin-and-child-with-saint-1595.jpg
+Barbara Longhi,Saint Catherine Of Alexandria Presumed Self Portrait 1589,Mannerism (Late Renaissance),portrait,,1589,,https://uploads6.wikiart.org//images//barbara-longhi//saint-catherine-of-alexandria-presumed-self-portrait-1589.jpg
+Barbara Longhi,Madonna And Child 1585,Mannerism (Late Renaissance),portrait,,1585,,https://uploads8.wikiart.org//images//barbara-longhi//madonna-and-child-1585.jpg!Large.jpg
+Marietta Robusti,Self Portrait 1580,Mannerism (Late Renaissance),self-portrait,,1580,,https://uploads5.wikiart.org//images//marietta-robusti//self-portrait-1580.jpg
+Marietta Robusti,Self Portrait Or Venetian Woman Attributed,Mannerism (Late Renaissance),self-portrait,,1580,,https://uploads3.wikiart.org//images//marietta-robusti//self-portrait-or-venetian-woman-attributed.jpg!Large.jpg
+Marietta Robusti,Portrait Of Ottavio Strada Attributed 1568,Mannerism (Late Renaissance),portrait,,1568,,https://uploads3.wikiart.org//images//marietta-robusti//portrait-of-ottavio-strada-attributed-1568.jpg!Large.jpg
+Marietta Robusti,Venetian Woman Attributed 1,Mannerism (Late Renaissance),portrait,,1560,,https://uploads5.wikiart.org//images//marietta-robusti//venetian-woman-attributed-1.jpg
+Cennino Cennini,Saint Augustine 1400,Proto Renaissance,religious painting,,1400,,https://uploads7.wikiart.org//images//cennino-cennini//saint-augustine-1400.jpg!Large.jpg
+Cennino Cennini,Nativity Of The Virgin 1400,Proto Renaissance,religious painting,,1400,,https://uploads5.wikiart.org//images//cennino-cennini//nativity-of-the-virgin-1400.jpg!Large.jpg
+Cennino Cennini,Madonna And Child With Seraphim And Cherubim 1400,Proto Renaissance,religious painting,,1400,,https://uploads0.wikiart.org//images//cennino-cennini//madonna-and-child-with-seraphim-and-cherubim-1400.jpg!Large.jpg
+Cennino Cennini,Madonna And Child With Angels And Saints 1400,Proto Renaissance,religious painting,,1400,,https://uploads5.wikiart.org//images//cennino-cennini//madonna-and-child-with-angels-and-saints-1400.jpg!Large.jpg
+Defendente Ferrari,The Virgin And Child With St Anne,High Renaissance,religious painting,,1528,,https://uploads7.wikiart.org//00168//images//defendente-ferrari//defendente-ferrari-anna-te-drie-n.jpg!Large.jpg
+Defendente Ferrari,Christs Dispute At The Temple,High Renaissance,religious painting,,1526,,https://uploads5.wikiart.org//00168//images//defendente-ferrari//defendente-ferrari-001.jpg!Large.jpg
+Defendente Ferrari,The Holy Family With Angels,High Renaissance,religious painting,,1520,,https://uploads7.wikiart.org//00168//images//defendente-ferrari//defendente-ferrari-the-holy-family-with-angels-walters-37711.jpg!Large.jpg
+Defendente Ferrari,Adoration Of The Magi,High Renaissance,religious painting,,1520,,https://uploads0.wikiart.org//00168//images//defendente-ferrari//00072301.jpg!Large.jpg
+Defendente Ferrari,Adoration Of The Magi 0,High Renaissance,religious painting,,1520,,https://uploads2.wikiart.org//00168//images//defendente-ferrari//adorazione.jpg!Large.jpg
+Defendente Ferrari,Adoration Of The Child With A Donor,High Renaissance,religious painting,,1511,,https://uploads3.wikiart.org//00168//images//defendente-ferrari//defendente-ferrari-adorazione-del-bambino-con-un-donatore-1511-01.JPG!Large.JPG
+Tang Yin, 1523,Ink and wash painting,shan shui,,1523,,https://uploads3.wikiart.org//images//tang-yin//-1523.jpg!Large.jpg
+Tang Yin, 1520,Ink and wash painting,genre painting,,1520,,https://uploads3.wikiart.org//images//tang-yin//-1520.jpg!Large.jpg
+Tang Yin, 11516,Ink and wash painting,genre painting,,1516,,https://uploads4.wikiart.org//images//tang-yin//-11516.jpg!Large.jpg
+Tang Yin,Sound Of Pines On A Mountain Path 1516,Ink and wash painting,shan shui,,1516,,https://uploads0.wikiart.org//images//tang-yin//sound-of-pines-on-a-mountain-path-1516.jpg!Large.jpg
+Tang Yin,Tao Gu Presents A Poem 1515,Ink and wash painting,genre painting,,1515,,https://uploads7.wikiart.org//images//tang-yin//tao-gu-presents-a-poem-1515.jpg!Large.jpg
+Tang Yin,Clearing After Snow On A Mountain Pass 1507,Ink and wash painting,shan shui,,1507,,https://uploads5.wikiart.org//images//tang-yin//clearing-after-snow-on-a-mountain-pass-1507.jpg!Large.jpg
+Jacques Daret,Adoration Of The Magi 1435,Northern Renaissance,religious painting,,1435,,https://uploads3.wikiart.org//00119//images//jacques-daret//adoration-of-the-magi.jpg!Large.jpg
+Ghiberti,Door Of The Paradise 1452,Early Renaissance,sculpture,,1425,,https://uploads1.wikiart.org//00164//images//ghiberti//lorenzo-ghiberti-porta-del-paradiso-1425-52-00.JPG!Large.JPG
+Ghiberti,Santo Stefano 1428,Early Renaissance,sculpture,,1427,,https://uploads3.wikiart.org//00164//images//ghiberti//firenzeorsanmichele05.jpg!Large.jpg
+Ghiberti,North Door 1424,Early Renaissance,sculpture,,1403,,https://uploads1.wikiart.org//00164//images//ghiberti//lorenzo-ghiberti-e-aiuti-porta-nord-del-battistero-di-firenze-01.JPG!Large.JPG
+Ghiberti,San Matteo 1423,Early Renaissance,sculpture,,1419,,https://uploads8.wikiart.org//00164//images//ghiberti//800px-orsanmichele-san-matteo-di-ghiberti-02.JPG!Large.JPG
+Ghiberti,San Juan Bautista 1416,Early Renaissance,sculpture,,1412,,https://uploads0.wikiart.org//00164//images//ghiberti//320px-firenzeorsanmichele14.jpg!Large.jpg
+Ghiberti,The Sacrifice Of Isaac,Early Renaissance,sculpture,,1401,,https://uploads1.wikiart.org//00164//images//ghiberti//800px-wga-ghiberti-sacrifice-of-isaajpg!Large.jpg
+Jacques Daret,Nativity 1435,Northern Renaissance,religious painting,,1435,,https://uploads8.wikiart.org//00119//images//jacques-daret//nativity.jpg!Large.jpg
+Jacques Daret,Visitation 1435,Northern Renaissance,religious painting,,1435,,https://uploads6.wikiart.org//00119//images//jacques-daret//visitation-1435.jpg!Large.jpg
+Jacques Daret,Presentation In The Temple 1435,Northern Renaissance,religious painting,,1435,,https://uploads8.wikiart.org//00119//images//jacques-daret//presentation-in-the-temple.jpg!Large.jpg
+Emperor Huizong,Five Colored Parakeet On A Blossoming Apricot Tree 1119,Gongbi,bird-and-flower painting,,1119,,https://uploads6.wikiart.org//images//emperor-huizong//five-colored-parakeet-on-a-blossoming-apricot-tree-1119.jpg!Large.jpg
+Emperor Huizong,Auspicious Cranes 1112,Gongbi,animal painting,,1112,,https://uploads0.wikiart.org//images//emperor-huizong//auspicious-cranes-1112.jpg!Large.jpg
+Emperor Huizong,Pigeon On A Peach Branch 1108,Gongbi,bird-and-flower painting,,1108,,https://uploads7.wikiart.org//images//emperor-huizong//pigeon-on-a-peach-branch-1108.jpg!Large.jpg
+Emperor Huizong,Women Preparing Silk After Zhang Xuan 1100,Gongbi,genre painting,,1100,,https://uploads2.wikiart.org//images//emperor-huizong//women-preparing-silk-after-zhang-xuan-1100.jpg!Large.jpg
+Emperor Huizong,An Elegant Party 1100,Gongbi,genre painting,,1100,,https://uploads8.wikiart.org//images//emperor-huizong//an-elegant-party-1100.jpg!Large.jpg
+Emperor Huizong,An Elegant Party Detail 1100,Gongbi,genre painting,,1100,,https://uploads6.wikiart.org//images//emperor-huizong//an-elegant-party-detail-1100.jpg!Large.jpg
+Hildegard Of Bingen,Prayer Book Of Hildegard Of Bingen 1179,Romanesque,miniature,,1179,,https://uploads3.wikiart.org//images//hildegard-of-bingen//prayer-book-of-hildegard-of-bingen-1179.jpg!Large.jpg
+Hildegard Of Bingen,The Universe 1165,Romanesque,miniature,,1165,,https://uploads8.wikiart.org//images//hildegard-of-bingen//the-universe-1165.jpg!Large.jpg
+Hildegard Of Bingen,The True Trinity In True Unity 1165,Romanesque,miniature,,1165,,https://uploads8.wikiart.org//images//hildegard-of-bingen//the-true-trinity-in-true-unity-1165.jpg!Large.jpg
+Hildegard Of Bingen,The Mystical Body 1165,Romanesque,miniature,,1165,,https://uploads4.wikiart.org//images//hildegard-of-bingen//the-mystical-body-1165.jpg!Large.jpg
+Hildegard Of Bingen,Motherhood In The Spirit And The Water 1165,Romanesque,miniature,,1165,,https://uploads7.wikiart.org//images//hildegard-of-bingen//motherhood-in-the-spirit-and-the-water-1165.jpg!Large.jpg
+Sm Sultan,After The Flood 1986,Expressionism,landscape,,1986,,https://uploads8.wikiart.org//00138//images//sm-sultan//after-the-flood-1986.jpg
+Sm Sultan,Farmers In Confrontation 1986,"Social Realism,Expressionism",landscape,,1986,,https://uploads8.wikiart.org//00138//images//sm-sultan//farmers-in-confrontation-1986.jpg
+Sm Sultan,Char Dakhal 1976,Expressionism,landscape,, ; Bangladesh,,https://uploads5.wikiart.org//00131//images//sm-sultan//sm-sultan-char-dakhal-1976.jpg
+Sm Sultan,Peasants At Work 1975,"Social Realism,Expressionism",landscape,,1975,,https://uploads0.wikiart.org//00138//images//sm-sultan//peasants-at-work-1975.jpg
+Sm Sultan,Study For A Male Head 1956,"Social Realism,Expressionism",landscape,,1956,,https://uploads6.wikiart.org//00138//images//sm-sultan//study-for-a-male-head-1956.jpg!Large.jpg
+Sm Sultan,Untitled Landscape 1952,"Social Realism,Expressionism",landscape,,1952,,https://uploads3.wikiart.org//00138//images//sm-sultan//untitled-landscape-1952.jpg!Large.jpg
+Jose Manuel Capuletti,Portrait Of Woman In Seascape,Surrealism,portrait,,1958,,https://uploads4.wikiart.org//images//jose-manuel-capuletti//portrait-of-woman-in-seascape.jpg!Large.jpg
+Jose Manuel Capuletti,Pilar 1955,Surrealism,portrait,,1955,,https://uploads2.wikiart.org//images//jose-manuel-capuletti//pilar-1955.jpg
+Jose Manuel Capuletti,Dama En La Playa 1953,Surrealism,genre painting,,1953,,https://uploads4.wikiart.org//images//jose-manuel-capuletti//dama-en-la-playa-1953.jpg
+Jose Manuel Capuletti,Allegory Of Music 1946,Surrealism,allegorical painting,,1946,,https://uploads5.wikiart.org//images//jose-manuel-capuletti//allegory-of-music-1946.jpg
+Jean Francois Dubreuil,Qxo2 2 La Montagne Du 20 05 2010 2010,Neo-Geo,abstract,,2010,,https://uploads3.wikiart.org//images//jean-francois-dubreuil//qxo2-2-la-montagne-du-20-05-2010-2010.jpg
+Jean Francois Dubreuil,Voix Du Jura N 3296 2008,Neo-Geo,abstract,,2008,,https://uploads8.wikiart.org//images//jean-francois-dubreuil//voix-du-jura-n-3296-2008.jpg
+Jean Francois Dubreuil,Qvh1 Le Courrier De L Est N 243 13 10 2007 2007,Neo-Geo,abstract,,2007,,https://uploads4.wikiart.org//images//jean-francois-dubreuil//qvh1-le-courrier-de-l-est-n-243-13-10-2007-2007.jpg
+Jean Francois Dubreuil,Lib Ration No 3781 1993,Neo-Geo,abstract,,1993,,https://uploads8.wikiart.org//images//jean-francois-dubreuil//lib-ration-no-3781-1993.jpg!Large.jpg
+Jean Francois Dubreuil,O Globo 1992,Neo-Geo,abstract,,1992,,https://uploads5.wikiart.org//images//jean-francois-dubreuil//o-globo-1992.jpg
+Rafael Ferran,Ferran Levaggio Di Venezia2 Jpg 2016,Abstract Art,"abstract,figurative",,2012,,https://uploads5.wikiart.org//00121//images//rafael-ferran//ferran-levaggio-di-venezia2-jpg.JPG!Large.JPG
+Rafael Ferran,Ferran Viento 2 Jpg 2016,Abstract Art,"abstract,figurative",,2012,,https://uploads1.wikiart.org//00121//images//rafael-ferran//ferran-viento-2-jpg.jpg
+Rafael Ferran,Ferran Viento Jpg 2012,Abstract Art,"abstract,figurative",,2010,,https://uploads0.wikiart.org//00121//images//rafael-ferran//ferran-viento-jpg.JPG!Large.JPG
+Rafael Ferran,Ferran Levaggio Di Venezia3 Jpg 2009,Abstract Art,"abstract,figurative",,,,https://uploads7.wikiart.org//00121//images//rafael-ferran//ferran-levaggio-di-venezia3-jpg-1.jpg!Large.jpg
+Rafael Ferran,Ferran Levaggio Di Venizia Jpg 2007,Abstract Art,"abstract,figurative",,,,https://uploads4.wikiart.org//00121//images//rafael-ferran//ferran-levaggio-di-venizia-jpg.jpg!Large.jpg
+Futura 2000,Saint Patrick Futura 2009,Street art,graffiti,,2009,,https://uploads7.wikiart.org//images//futura-2000//saint-patrick-futura-2009.jpg
+Futura 2000,Never Never Land 2003,Street art,graffiti,,2003,,https://uploads3.wikiart.org//images//futura-2000//never-never-land-2003.jpg
+Futura 2000,Wall 1982,Street art,graffiti,,1982,,https://uploads0.wikiart.org//images//futura-2000//wall-1982.jpg
+Futura 2000,Piece 1980,Street art,graffiti,,1980,,https://uploads1.wikiart.org//images//futura-2000//piece-1980.jpg
+Futura 2000,Kel 1St 1980,Street art,graffiti,,1980,,https://uploads4.wikiart.org//images//futura-2000//kel-1st-1980.jpg!Large.jpg
+Gregg Renfrow,Cool Grays 11 6 2011,Light and Space,abstract,,2011,,https://uploads4.wikiart.org//images//gregg-renfrow//cool-grays-11-6-2011.jpg
+Gregg Renfrow,Ivory Black Violet Yellow Green 2009,Light and Space,abstract,,2009,,https://uploads2.wikiart.org//images//gregg-renfrow//ivory-black-violet-yellow-green-2009.jpg
+Gregg Renfrow,Carbon Black 19 2007,Light and Space,abstract,,2007,,https://uploads4.wikiart.org//images//gregg-renfrow//carbon-black-19-2007.jpg
+Gregg Renfrow,06 47 2007,Light and Space,abstract,,2007,,https://uploads3.wikiart.org//images//gregg-renfrow//06-47-2007.jpg
+Gregg Renfrow,Close 1985,Light and Space,abstract,,1985,,https://uploads4.wikiart.org//images//gregg-renfrow//close-1985.jpg!Large.jpg
+Hassan Massoudy,Untitled 2011,Abstract Expressionism,calligraphy,,2011,,https://uploads8.wikiart.org//images//hassan-massoudy//untitled-2011.jpg
+Hassan Massoudy,Untitled 2009,Abstract Expressionism,calligraphy,,2009,,https://uploads8.wikiart.org//images//hassan-massoudy//untitled-2009.jpg
+Hassan Massoudy,Untitled 2000,Abstract Expressionism,calligraphy,,2000,,https://uploads8.wikiart.org//images//hassan-massoudy//untitled-2000.jpg
+Hassan Massoudy,Untitled 1996,Abstract Expressionism,calligraphy,,1996,,https://uploads8.wikiart.org//images//hassan-massoudy//untitled-1996.jpg
+Mel Ramsden,Six Negatives Collaboration With Ian Burn 1969,Conceptual Art,installation,, 1968 - ;  Australia,,https://uploads1.wikiart.org//images//mel-ramsden//six-negatives-collaboration-with-ian-burn-1969.jpg
+Mel Ramsden,100 Abstract 1968,Conceptual Art,installation,,1968,,https://uploads8.wikiart.org//images//mel-ramsden//100-abstract-1968.jpg
+Mel Ramsden,Guaranteed Painting 1968,Conceptual Art,installation,,1967 - 1968,,https://uploads7.wikiart.org//images//mel-ramsden//guaranteed-painting-1968.jpg!Large.jpg
+Mel Ramsden,Secret Painting 1968,Conceptual Art,installation,,1967 - 1968,,https://uploads3.wikiart.org//images//mel-ramsden//secret-painting-1968.jpg!Large.jpg
+Mel Ramsden,Black Painting 1966,Conceptual Art,abstract,,1966,,https://uploads2.wikiart.org//images//mel-ramsden//black-painting-1966.jpg!Large.jpg
+Valentin Khrushch,Pokhishchenie Evropy 1990,Figurative Expressionism,mythological painting,,,,https://uploads4.wikiart.org//00157//images//valentin-khrushch//valentin-khrushch-europe-abduction-85-5-x-61-5-cm-paper-acrylic-1990.jpg!Large.jpg
+Konstantin Vasilyev,Not Detected 272814,Contemporary Realism,mythological painting,,1974,,https://uploads1.wikiart.org//images//konstantin-vasilyev//not-detected-272814.jpg!Large.jpg
+Konstantin Vasilyev,Not Detected 272810,Symbolism,mythological painting,,1973,,https://uploads1.wikiart.org//images//konstantin-vasilyev//not-detected-272810.jpg!Large.jpg
+Konstantin Vasilyev,Not Detected 272787,Symbolism,mythological painting,,1964,,https://uploads1.wikiart.org//images//konstantin-vasilyev//not-detected-272787.jpg!Large.jpg
+Konstantin Vasilyev,Not Detected 272795,Surrealism,mythological painting,,1963,,https://uploads1.wikiart.org//images//konstantin-vasilyev//not-detected-272795.jpg!Large.jpg
+Konstantin Vasilyev,Not Detected 272788,Surrealism,mythological painting,,1963,,https://uploads1.wikiart.org//images//konstantin-vasilyev//not-detected-272788.jpg!Large.jpg
+Valentin Khrushch,Natyurmort S Reproduktsiey Lukasa Kranakha 1970,"Metaphysical art,New Realism",figurative,,,,https://uploads4.wikiart.org//00157//images//valentin-khrushch//valentin-khrushch-still-life-with-lucas-kranakh-reproduction-60-5-x-60-5-cm-oil-on-canvas-1970s.JPG!Large.JPG
+Valentin Khrushch,Rybki 1970,"Figurative Expressionism,Expressionism",figurative,,,,https://uploads4.wikiart.org//00157//images//valentin-khrushch//valentin-khrushch-fishes-mixed-media-on-wood-1970s.JPG!Large.JPG
+Valentin Khrushch,Golova 1970,"Abstract Expressionism,Expressionism",abstract,,1970,,https://uploads4.wikiart.org//00157//images//valentin-khrushch//valentin-khrushch-head-95-5-x-95-5-cm-plywood-acrylic-1970s.JPG!Large.JPG
+Nancy Holt,Sky Mound 2008,Environmental (Land) Art,installation,,,1988 - 2008,https://uploads4.wikiart.org//images//nancy-holt//sky-mound-2008.jpg
+Nancy Holt,Dark Star Park 1984,Environmental (Land) Art,installation,,,,https://uploads1.wikiart.org//images//nancy-holt//dark-star-park-1984.jpg!Large.jpg
+Nancy Holt,Thirty Below 1980,Environmental (Land) Art,installation,,,,https://uploads7.wikiart.org//images//nancy-holt//thirty-below-1980.jpg
+Nancy Holt,Stone Enclosure Rock Rings 1978,Environmental (Land) Art,installation,,,1977 - 1978,https://uploads4.wikiart.org//images//nancy-holt//stone-enclosure-rock-rings-1978.jpg!Large.jpg
+Nancy Holt,Sun Tunnels 1976,Environmental (Land) Art,installation,, ;  United States,,https://uploads7.wikiart.org//images//nancy-holt//sun-tunnels-1976.jpg!Large.jpg
+Hossein Zenderoudi,First Name 1977,Abstract Art,calligraphy,,1977,,https://uploads0.wikiart.org//00108//images//hossein-zenderoudi//first-name-1977.jpg
+Hossein Zenderoudi,Tchaar Bagh 1977,Abstract Art,calligraphy,,1977,,https://uploads1.wikiart.org//00108//images//hossein-zenderoudi//tchaar-bagh-1981.jpg
+Hossein Zenderoudi,Crowns Of Love 1972,Abstract Art,calligraphy,,1972,,https://uploads4.wikiart.org//00108//images//hossein-zenderoudi//crowns-of-love-1972.jpg
+Hossein Zenderoudi,Arbab 1968,Abstract Art,calligraphy,,1972,,https://uploads4.wikiart.org//00108//images//hossein-zenderoudi//arbab-1972.jpg
+Jean Claude Silbermann,Les Demoiselles 2008,Surrealism,,,2008,,https://uploads5.wikiart.org//images//jean-claude-silbermann//les-demoiselles-2008.jpg!Large.jpg
+Jean Claude Silbermann,N 7775 1984,Surrealism,figurative,,1984,,https://uploads4.wikiart.org//images//jean-claude-silbermann//n-7775-1984.jpg
+Jean Claude Silbermann,N 7777 1977,Surrealism,figurative,,1977,,https://uploads4.wikiart.org//images//jean-claude-silbermann//n-7777-1977.jpg
+Jean Claude Silbermann,N 6608 Enseigne Peinte Les Sciences Exactes 1977,Surrealism,figurative,,1977,,https://uploads5.wikiart.org//images//jean-claude-silbermann//n-6608-enseigne-peinte-les-sciences-exactes-1977.jpg
+Thomas Nonn,Contained Force No 2 2012,Abstract Art,"abstract,sculpture",,,,https://uploads7.wikiart.org//00128//images//thomas-nonn//img-1580.jpg!Large.jpg
+Thomas Nonn,Grand Split 1994,Abstract Art,"abstract,sculpture",,,,https://uploads8.wikiart.org//00128//images//thomas-nonn//img035-modified-v2.jpg!Large.jpg
+Thomas Nonn,Mirage 1989,Abstract Art,"abstract,sculpture",,,,https://uploads8.wikiart.org//00128//images//thomas-nonn//img081-modified-v1.jpg!Large.jpg
+Thomas Nonn,Facade 1965,Abstract Art,"abstract,sculpture",,,,https://uploads5.wikiart.org//00128//images//thomas-nonn//img020.jpg!Large.jpg
+Thomas Nonn,Untitled 1960,Abstract Art,"abstract,sculpture",,,,https://uploads0.wikiart.org//00128//images//thomas-nonn//artfrom-1956-1960-modified-v2.jpg
+Jyoti Bhatt,Queen Of The Heart 1993,Naïefve Art (Primitivism),symbolic painting,,1993,,https://uploads5.wikiart.org//images//jyoti-bhatt//queen-of-the-heart-1993.jpg
+Jyoti Bhatt,Reminiscent Images 1990,"Pop Art,Naïefve Art (Primitivism)",symbolic painting,,1990,,https://uploads5.wikiart.org//images//jyoti-bhatt//reminiscent-images-1990.jpg
+Jyoti Bhatt,Self Portrait 1970,Naïefve Art (Primitivism),symbolic painting,,1970,,https://uploads1.wikiart.org//images//jyoti-bhatt//self-portrait-1970.jpg!Large.jpg
+Jyoti Bhatt,Woman With Parrot 1965,Naïefve Art (Primitivism),symbolic painting,,1965,,https://uploads4.wikiart.org//images//jyoti-bhatt//woman-with-parrot-1965.jpg
+Jyoti Bhatt,Mother Child 1961,Naïefve Art (Primitivism),symbolic painting,,1961,,https://uploads0.wikiart.org//images//jyoti-bhatt//mother-child-1961.jpg!Large.jpg
+Constantin Blendea,Miscare In Spatiu 2004,Abstract Art,abstract,,2006,,https://uploads6.wikiart.org//images//constantin-blendea//miscare-in-spatiu-2004(1).jpg!Large.jpg
+Constantin Blendea,Plutire Verticala,Abstract Art,abstract,,2002,,https://uploads7.wikiart.org//images//constantin-blendea//plutire-verticala.jpg!Large.jpg
+Constantin Blendea,Unknown Title 1999,Abstract Art,abstract,,1999,,https://uploads8.wikiart.org//images//constantin-blendea//unknown-title-1999.jpg!Large.jpg
+Constantin Blendea,Dialog 1976,"Cubism,Expressionism",abstract,,1976,,https://uploads0.wikiart.org//images//constantin-blendea//dialog-1976.jpg
+Afewerk Tekle,Demera 1974,Expressionism,genre painting,,1974,,https://uploads4.wikiart.org//images//afewerk-tekle//demera-1974.jpg
+Afewerk Tekle,Male Portrait 1973,Expressionism,portrait,,1973,,https://uploads2.wikiart.org//images//afewerk-tekle//male-portrait-1973.jpg
+Afewerk Tekle,African Heritage 1967,Expressionism,symbolic painting,,1967,,https://uploads5.wikiart.org//images//afewerk-tekle//african-heritage-1967.jpg
+Afewerk Tekle,Mother Ethiopia 1963,Expressionism,symbolic painting,,1963,,https://uploads4.wikiart.org//images//afewerk-tekle//mother-ethiopia-1963.jpg
+Afewerk Tekle,The Maskal Flower 1959,Expressionism,portrait,,1959,,https://uploads6.wikiart.org//images//afewerk-tekle//the-maskal-flower-1959.jpg
+Rubem Ludolf,Trama 1998,Concretism,abstract,,1998,,https://uploads2.wikiart.org//images//rubem-ludolf//trama-1998.jpg
+Rubem Ludolf,Untitled 1972,Op Art,abstract,,1972,,https://uploads6.wikiart.org//images//rubem-ludolf//untitled-1972.jpg!Large.jpg
+Rubem Ludolf,Objeto Cin Tico 1970,Kinetic Art,abstract,,1970,,https://uploads3.wikiart.org//images//rubem-ludolf//objeto-cin-tico-1970.jpg
+Rubem Ludolf,Untitled 1958,Op Art,abstract,,1958,,https://uploads6.wikiart.org//images//rubem-ludolf//untitled-1958.jpg!Large.jpg
+Rubem Ludolf,Untitled 1957,Concretism,abstract,,1957,,https://uploads5.wikiart.org//images//rubem-ludolf//untitled-1957.jpg
+Rubem Ludolf,Composi O Sobre Fundo Cinza 1956,Concretism,abstract,,1956,,https://uploads7.wikiart.org//images//rubem-ludolf//composi-o-sobre-fundo-cinza-1956.jpg!Large.jpg
+Sabin Balasa,The Galaxy Of Love 2002,"Kitsch,Surrealism",symbolic painting,,2002,,https://uploads6.wikiart.org//images//sabin-b-la-a//the-galaxy-of-love-2002.jpg
+Sabin Balasa,The Exodus Towards Light 1999,Surrealism,symbolic painting,,1999,,https://uploads3.wikiart.org//images//sabin-b-la-a//the-exodus-towards-light-1999.jpg
+Sabin Balasa,Nude On The Beach 1995,Surrealism,nude painting (nu),,1995,,https://uploads6.wikiart.org//images//sabin-b-la-a//nude-on-the-beach-1995.jpg!Large.jpg
+Sabin Balasa,Cosmic Wedding 1982,Surrealism,symbolic painting,,1982,,https://uploads3.wikiart.org//images//sabin-b-la-a//cosmic-wedding-1982.jpg!Large.jpg
+Roman Opalka,1965 1 D Tail Photo 2011,Conceptual Art,photo,,2011,,https://uploads7.wikiart.org//images//roman-opalka//1965-1-d-tail-photo-2011.jpg
+Roman Opalka,1 00 Detail 868 149 893 746 1967 71 1965,Conceptual Art,abstract,,1965 - 1971,,https://uploads6.wikiart.org//images//roman-opalka//1-00-detail-868-149-893-746-1967-71-1965.jpg!Large.jpg
+Roman Opalka,Tau 1965,Conceptual Art,abstract,,1965,,https://uploads0.wikiart.org//images//roman-opalka//tau-1965.jpg
+Roman Opalka,1965 1 D Tail Photo 1965,Conceptual Art,photo,,1965,,https://uploads7.wikiart.org//images//roman-opalka//1965-1-d-tail-photo-1965.jpg
+Henry Villierme,Hidden Valley 2007,Neo-Expressionism,landscape,,2007,,https://uploads4.wikiart.org//images//henry-villierme//hidden-valley-2007.jpg
+Henry Villierme,A Quiet Moment 1995,Neo-Expressionism,landscape,,1995,,https://uploads5.wikiart.org//images//henry-villierme//a-quiet-moment-1995.jpg
+Henry Villierme,Untitled Landscape 1984,Neo-Expressionism,landscape,,1984,,https://uploads0.wikiart.org//images//henry-villierme//untitled-landscape-1984.jpg
+Henry Villierme,Landscape 1957,Neo-Expressionism,landscape,,1957,,https://uploads0.wikiart.org//images//henry-villierme//landscape-1957.jpg
+Henry Villierme,Landscape 1956,Neo-Expressionism,landscape,,1956,,https://uploads0.wikiart.org//images//henry-villierme//landscape-1956.jpg
+Grigor Khanjyan,Vardananq,Expressionism,,, 1992 - ; Armenia,,https://uploads5.wikiart.org//images//grigor-khanjyan//vardananq.jpg!Large.jpg
+Grigor Khanjyan,In The Cafe 1976,Expressionism,genre painting,,1976,,https://uploads2.wikiart.org//images//grigor-khanjyan//in-the-cafe-1976.jpg
+Grigor Khanjyan,Illustration To The Poem Gevorg Emin S Sasun Dance 1975,Expressionism,illustration,,1975,Armenian art,https://uploads5.wikiart.org//images//grigor-khanjyan//illustration-to-the-poem-gevorg-emin-s-sasun-dance-1975.jpg
+Grigor Khanjyan,Bread Love And Dream 1964,Expressionism,genre painting,,1964,,https://uploads3.wikiart.org//images//grigor-khanjyan//bread-love-and-dream-1964.jpg!Large.jpg
+Grigor Khanjyan,Rome 1962,Expressionism,cityscape,,1962,Armenian art,https://uploads5.wikiart.org//images//grigor-khanjyan//rome-1962.jpg!Large.jpg
+Grigor Khanjyan, 1953,Expressionism,genre painting,, ; Armenia,,https://uploads7.wikiart.org//00100//images//grigor-khanjyan//38274-b.jpg
+Anatoli Papian,Self Portrait 1999,Expressionism,"genre painting,landscape",,1999,,https://uploads4.wikiart.org//images//anatoli-papian//self-portrait-1999.jpg!Large.jpg
+Anatoli Papian,Portrait Of Anna 1983,Expressionism,"genre painting,landscape",,1983,,https://uploads6.wikiart.org//images//anatoli-papian//portrait-of-anna-1983.jpg
+Anatoli Papian,Nocturne 1970,Expressionism,"genre painting,landscape",,1970,,https://uploads7.wikiart.org//images//anatoli-papian//nocturne-1970.jpg
+Anatoli Papian,The Old Mine 1957,Expressionism,"genre painting,landscape",,1957,,https://uploads2.wikiart.org//images//anatoli-papian//the-old-mine-1957.jpg
+Stanley Pinker,Gone But Not Forgotten 1976,Cubism,landscape,,1976,,https://uploads3.wikiart.org//images//stanley-pinker//gone-but-not-forgotten-1976.jpg
+Stanley Pinker,The Wheel Of Life 1974,"Pop Art,Surrealism",figurative,,1974,,https://uploads7.wikiart.org//images//stanley-pinker//the-wheel-of-life-1974.jpg
+Stanley Pinker,The Welder 1974,Cubism,figurative,,1974,,https://uploads1.wikiart.org//images//stanley-pinker//the-welder-1974.jpg!Large.jpg
+Stanley Pinker,Still Life 1957,Cubism,still life,,1957,,https://uploads1.wikiart.org//images//stanley-pinker//still-life-1957.jpg!Large.jpg
+Stanley Pinker,Ons Land 1957,Surrealism,landscape,,1957,,https://uploads8.wikiart.org//images//stanley-pinker//ons-land-1957.jpg!Large.jpg
+Akira Kanayama,Work 1957 3,Art Informel,abstract,,1957,,https://uploads5.wikiart.org//images//akira-kanayama//work-1957-3.jpg
+Akira Kanayama,Work 1957 2,Art Informel,abstract,,1957,,https://uploads5.wikiart.org//images//akira-kanayama//work-1957-2.jpg
+Akira Kanayama,Work 1957 1,Art Informel,abstract,,1957,,https://uploads5.wikiart.org//images//akira-kanayama//work-1957-1.jpg
+Akira Kanayama,Work 1957,Art Informel,abstract,,1957,,https://uploads3.wikiart.org//images//akira-kanayama//work-1957.jpg
+Akira Kanayama,Ashiato 1956,Art Informel,abstract,,1956,,https://uploads6.wikiart.org//images//akira-kanayama//ashiato-1956.jpg
+Akira Kanayama,Balloon 1955,Art Informel,abstract,,1955,,https://uploads6.wikiart.org//images//akira-kanayama//balloon-1955.jpg
+Roberto Sambonet,Rst Set 1976,Concretism,design,,1976,,https://uploads8.wikiart.org//images//roberto-sambonet//rst-set-1976.jpg
+Roberto Sambonet,Glasses 1972,Concretism,design,,1972,,https://uploads8.wikiart.org//images//roberto-sambonet//glasses-1972.jpg
+Roberto Sambonet,Pesciera 1957,Concretism,design,,1957,,https://uploads0.wikiart.org//images//roberto-sambonet//pesciera-1957.jpg
+Roberto Sambonet,Fish Poacher 1954,Concretism,design,,1954,,https://uploads4.wikiart.org//images//roberto-sambonet//fish-poacher-1954.jpg
+Fernando Lanhas,O41 69 1969,Abstract Art,abstract,,1969,,https://uploads6.wikiart.org//images//fernando-lanhas//o41-69-1969.jpg
+Fernando Lanhas,P68 84 E P90 85 1985,Abstract Art,abstract,,1985,,https://uploads6.wikiart.org//images//fernando-lanhas//p68-84-e-p90-85-1985.jpg
+Fernando Lanhas,0 42 69 1969,Abstract Art,abstract,,1969,,https://uploads7.wikiart.org//images//fernando-lanhas//0-42-69-1969.jpg
+Fernando Lanhas,O39 68 1968,Abstract Art,abstract,,1968,,https://uploads6.wikiart.org//images//fernando-lanhas//o39-68-1968.jpg
+Fernando Lanhas,O32 60 1960,Abstract Art,abstract,,1960,,https://uploads6.wikiart.org//images//fernando-lanhas//o32-60-1960.jpg
+Fernando Lanhas,O2 43 44 Ou O Violino 1944,Abstract Art,abstract,,1944,,https://uploads3.wikiart.org//images//fernando-lanhas//o2-43-44-ou-o-violino-1944.jpg
+Jerzy Nowosielski,No Title Blue Abstraction 1997,Post-Painterly Abstraction,"abstract,religious painting",,,,https://uploads7.wikiart.org//00128//images//jerzy-nowosielski//80.jpg!Large.jpg
+Jerzy Nowosielski,No Title Women In Red 1995,Neo-Expressionism,"abstract,religious painting",,,,https://uploads7.wikiart.org//00128//images//jerzy-nowosielski//76.jpg!Large.jpg
+Jerzy Nowosielski,No Title Blue Women 1995,Neo-Expressionism,"abstract,religious painting",,,,https://uploads7.wikiart.org//00128//images//jerzy-nowosielski//78.jpg!Large.jpg
+Jerzy Nowosielski,Sunrise In Bieszczady Sunrise In The Mountains 1963,Post-Painterly Abstraction,"abstract,religious painting",,,,https://uploads4.wikiart.org//00128//images//jerzy-nowosielski//canvas-1.png!Large.png
+Jerzy Nowosielski,Narrow Gauge Railway In The Mountains 1963,Post-Painterly Abstraction,"abstract,religious painting",,,,https://uploads4.wikiart.org//00128//images//jerzy-nowosielski//canvas-2.png!Large.png
+Tia Peltz,Norocel 1999,Expressionism,portrait,,1999,,https://uploads2.wikiart.org//images//tia-peltz//norocel-1999.jpg!Large.jpg
+Tia Peltz,Girl With Blue Eyes 1996,Expressionism,sketch and study,,1996,,https://uploads5.wikiart.org//images//tia-peltz//girl-with-blue-eyes-1996.jpg!Large.jpg
+Tia Peltz,Acroba I La Circ 1982,Expressionism,genre painting,,1982,,https://uploads2.wikiart.org//images//tia-peltz//acroba-i-la-circ-1982.jpg!Large.jpg
+Tia Peltz,Fluierici 1958,Expressionism,portrait,,1958,,https://uploads3.wikiart.org//images//tia-peltz//fluierici-1958.jpg
+Bram Bogart,Lenasgarden 1983,Excessivism,abstract,,1983,,https://uploads7.wikiart.org//images//bram-bogart//lenasgarden-1983.jpg
+Bram Bogart,Lechapeauderubens 1983,Excessivism,abstract,,1983,,https://uploads4.wikiart.org//images//bram-bogart//lechapeauderubens-1983.jpg
+Bram Bogart,Yellow Green 1962,Excessivism,abstract,,1962,,https://uploads8.wikiart.org//images//bram-bogart//yellow-green-1962.jpg
+Bram Bogart,Noordbodem 1961,Excessivism,abstract,,1961,,https://uploads6.wikiart.org//images//bram-bogart//noordbodem-1961.jpg
+Jean Benoit,The Necrophile Dedicated To Sergeant Bertrand 1965,Surrealism,sculpture,,1965,,https://uploads6.wikiart.org//images//jean-benoit//the-necrophile-dedicated-to-sergeant-bertrand-1965.jpg!Large.jpg
+Jean Benoit,Costume For The Execution Of The Testament Of The Marquis De Sade 1950 2,Surrealism,sculpture,,1950,,https://uploads1.wikiart.org//images//jean-benoit//costume-for-the-execution-of-the-testament-of-the-marquis-de-sade-1950-2.jpg!Large.jpg
+Jean Benoit,Costume For The Execution Of The Testament Of The Marquis De Sade 1950 1,Surrealism,sculpture,,1950,,https://uploads0.wikiart.org//images//jean-benoit//costume-for-the-execution-of-the-testament-of-the-marquis-de-sade-1950-1.jpg
+Jean Benoit,Costume For The Execution Of The Testament Of The Marquis De Sade 1950,Surrealism,sculpture,,1950,,https://uploads7.wikiart.org//images//jean-benoit//costume-for-the-execution-of-the-testament-of-the-marquis-de-sade-1950.jpg
+Albert Huie,Quiet Corner Gordon Town 1958,Post-Impressionism,landscape,,1958,,https://uploads2.wikiart.org//images//albert-huie//quiet-corner-gordon-town-1958.jpg
+Albert Huie,Crop Time 1955,Muralism,genre painting,,1955,,https://uploads5.wikiart.org//images//albert-huie//crop-time-1955.jpg
+Albert Huie,Self Portrait 1943,Post-Impressionism,self-portrait,,1943,,https://uploads1.wikiart.org//images//albert-huie//self-portrait-1943.jpg!Large.jpg
+Albert Huie,Noon 1943,Muralism,genre painting,,1943,,https://uploads0.wikiart.org//images//albert-huie//noon-1943.jpg
+Albert Huie,The Vendor 1939,Post-Impressionism,portrait,,1939,,https://uploads6.wikiart.org//images//albert-huie//the-vendor-1939.jpg
+Albert Huie,The Counting Lesson 1938,Post-Impressionism,portrait,,1938,,https://uploads6.wikiart.org//images//albert-huie//the-counting-lesson-1938.jpg
+Jean Jansem,Adelita 1972,Expressionism,"figurative,genre painting",,1972,,https://uploads4.wikiart.org//images//jean-jansem//adelita-1972.jpg!Large.jpg
+Jean Jansem,Two Ballerinas Resting 1969,Expressionism,"figurative,genre painting",,1969,,https://uploads0.wikiart.org//images//jean-jansem//two-ballerinas-resting-1969.jpg
+Jean Jansem,Dancer Sitting 1969,Expressionism,"figurative,genre painting",,,,https://uploads2.wikiart.org//images//jean-jansem//dancer-sitting-1969.jpg!Large.jpg
+Jean Jansem,The Rest During Rehearsal 1968,Expressionism,"figurative,genre painting",,1968,,https://uploads3.wikiart.org//images//jean-jansem//the-rest-during-rehearsal-1968.jpg
+Yves Laloy,Le Tout En Un Le Tout En Nain 1958,Surrealism,figurative,,1958,,https://uploads6.wikiart.org//images//yves-laloy//le-tout-en-un-le-tout-en-nain-1958.jpg
+Yves Laloy,Saturne Pas Rond 1949,Surrealism,figurative,,1949,,https://uploads2.wikiart.org//images//yves-laloy//saturne-pas-rond-1949.jpg
+Yves Laloy,Les Adieux 1959,Surrealism,figurative,,1959,,https://uploads5.wikiart.org//images//yves-laloy//les-adieux-1959.jpg
+Yves Laloy,Les Petits Poissons Rouges Les Petits Pois Sont Verts 1960,Surrealism,figurative,,1960,,https://uploads4.wikiart.org//images//yves-laloy//les-petits-poissons-rouges-les-petits-pois-sont-verts-1960.jpg!Large.jpg
+Yves Laloy,Monstrum In Animo 1955,Surrealism,figurative,,1955,,https://uploads3.wikiart.org//images//yves-laloy//monstrum-in-animo-1955.jpg
+Maurice Boitel,C Te D Opale Dunes Au Soleil Couchant 1986,Impressionism,landscape,,1986,,https://uploads0.wikiart.org//images//maurice-boitel//c-te-d-opale-dunes-au-soleil-couchant-1986.jpg
+Maurice Boitel,La Route De Conches Dans Un Village 1961,Impressionism,landscape,,1961,,https://uploads7.wikiart.org//images//maurice-boitel//la-route-de-conches-dans-un-village-1961.jpg
+Maurice Boitel,Eglise Saint Gervais 1950,Impressionism,landscape,,1950,,https://uploads1.wikiart.org//images//maurice-boitel//eglise-saint-gervais-1950.jpg
+Maurice Boitel,Alger Le Port 1947,Impressionism,landscape,,1947,,https://uploads3.wikiart.org//images//maurice-boitel//alger-le-port-1947.jpg
+Vytautas Kasiulis,The Artist Thinking,Expressionism,"landscape,still life",,1950,,https://uploads6.wikiart.org//00125//images//vytautas-kasiulis//kasiulis-spaudai-08.jpg!Large.jpg
+Charles Wilbert White,Guitarist,Social Realism,genre painting,,1959,,https://uploads2.wikiart.org//images//charles-wilbert-white//guitarist.jpg!Large.jpg
+Charles Wilbert White,Negro U S A 1949,Social Realism,portrait,,1949,,https://uploads0.wikiart.org//images//charles-wilbert-white//negro-u-s-a-1949.jpg!Large.jpg
+Charles Wilbert White,Our War 1948,Social Realism,genre painting,,1948,,https://uploads4.wikiart.org//images//charles-wilbert-white//our-war-1948.jpg
+Charles Wilbert White,The Contribution Of The Negro To Democracy In America 1943,"Muralism,Social Realism",symbolic painting,,1943,,https://uploads5.wikiart.org//images//charles-wilbert-white//the-contribution-of-the-negro-to-democracy-in-america-1943.jpg
+Vytautas Kasiulis,The Artist And The Model,Expressionism,"landscape,still life",,1960,,https://uploads6.wikiart.org//00125//images//vytautas-kasiulis//kasiulis-spaudai-09.jpg!Large.jpg
+Vytautas Kasiulis,Linocut,Expressionism,"landscape,still life",,1950,,https://uploads8.wikiart.org//00125//images//vytautas-kasiulis//kasiulis-spaudai-03-1-711x1024.jpg!Large.jpg
+Vytautas Kasiulis,Little Street Of Montmartre Paris,Expressionism,"landscape,still life",,1960,,https://uploads6.wikiart.org//00125//images//vytautas-kasiulis//kasiulis-spaudai-04-753x1024.jpg!Large.jpg
+Vytautas Kasiulis,Moulin Rouge,Expressionism,"landscape,still life",,1980,,https://uploads7.wikiart.org//00125//images//vytautas-kasiulis//kasiulis-spaudai-06-1.jpg
+Vytautas Kasiulis,The Accordionist,Expressionism,"landscape,still life",,1950,,https://uploads6.wikiart.org//00125//images//vytautas-kasiulis//kasiulis-spaudai-10-779x1024.jpg!Large.jpg
+Hovhannes Zardaryan,Silver Ararat,Realism,"genre painting,landscape",,1973,,https://uploads3.wikiart.org//images//hovhannes-zardaryan//silver-ararat.jpg
+Hovhannes Zardaryan,Aspiration,Expressionism,"genre painting,landscape",,1960,,https://uploads1.wikiart.org//images//hovhannes-zardaryan//aspiration.jpg!Large.jpg
+Hovhannes Zardaryan,Spring 1956,Expressionism,"genre painting,landscape",,1956,,https://uploads1.wikiart.org//images//hovhannes-zardaryan//spring-1956.jpg
+Hovhannes Zardaryan,Spring Etude 1944,Realism,"genre painting,landscape",,1944,,https://uploads7.wikiart.org//images//hovhannes-zardaryan//spring-etude-1944.jpg
+Ligia Macovei,Vegetal 1977,Expressionism,abstract,,1977,,https://uploads5.wikiart.org//images//ligia-macovei//vegetal-1977.jpg
+Ligia Macovei,Flower Sellers In Venice 1958,Expressionism,genre painting,,1958,,https://uploads5.wikiart.org//images//ligia-macovei//flower-sellers-in-venice-1958.jpg!Large.jpg
+Ligia Macovei,Self Portrait 1943,Expressionism,self-portrait,,1943,,https://uploads3.wikiart.org//images//ligia-macovei//self-portrait-1943.jpg!Large.jpg
+Ligia Macovei,Landscape With Bridge 1940,Expressionism,landscape,,1940,,https://uploads2.wikiart.org//images//ligia-macovei//landscape-with-bridge-1940.jpg!Large.jpg
+Ligia Macovei,Landscape With Boat 1940,Expressionism,landscape,,1940,,https://uploads0.wikiart.org//images//ligia-macovei//landscape-with-boat-1940.jpg!Large.jpg
+Paul Paun,Portret Of The Artist In The Black Window 1979,Surrealism,self-portrait,,1979,,https://uploads0.wikiart.org//images//paul-paun//portret-of-the-artist-in-the-black-window-1979.jpg!Large.jpg
+Paul Paun,Infra Black Drawing 1963,Automatic Painting,abstract,,1963,,https://uploads4.wikiart.org//images//paul-paun//infra-black-drawing-1963.jpg
+Paul Paun,Invitation For Exhibition Prometeu Gallery February 1945 1945,Automatic Painting,poster,,1945,,https://uploads5.wikiart.org//images//paul-paun//invitation-for-exhibition-prometeu-gallery-february-1945-1945.jpg
+Paul Paun,Illustration For Gellu Naum S Teribilul Interzis 1945,Automatic Painting,abstract,,1945,,https://uploads6.wikiart.org//images//paul-paun//illustration-for-gellu-naum-s-teribilul-interzis-1945.jpg
+Paul Paun,Prot Ge Moi 1944,Automatic Painting,abstract,,1944,,https://uploads6.wikiart.org//images//paul-paun//prot-ge-moi-1944.jpg!Large.jpg
+Paul Paun,Tu Tournes Lentement 1943,Automatic Painting,abstract,,1943,,https://uploads6.wikiart.org//images//paul-paun//tu-tournes-lentement-1943.jpg!Large.jpg
+Albert Tucker,City 1973,Expressionism,landscape,,1973,,https://uploads8.wikiart.org//00114//images//albert-tucker//dd101419.jpg!Large.jpg
+Luis Dourdil,Untitled 1979,Expressionism,abstract,,1979,,https://uploads6.wikiart.org//images//luis-dourdil//untitled-1979.jpg!Large.jpg
+Luis Dourdil,Untitled 1977,Expressionism,abstract,,1977,,https://uploads6.wikiart.org//images//luis-dourdil//untitled-1977.jpg!Large.jpg
+Luis Dourdil,Untitled 1973,Expressionism,abstract,,1973,,https://uploads6.wikiart.org//images//luis-dourdil//untitled-1973.jpg!Large.jpg
+Luis Dourdil,Peixeira Sentada 1960,Expressionism,abstract,,1960,,https://uploads5.wikiart.org//images//luis-dourdil//peixeira-sentada-1960.jpg!Large.jpg
+Luis Dourdil,Landscape 1959,Expressionism,landscape,,1959,,https://uploads7.wikiart.org//images//luis-dourdil//landscape-1959.jpg!Large.jpg
+Luis Dourdil,Varinas 1954,Expressionism,portrait,,1954,,https://uploads5.wikiart.org//images//luis-dourdil//varinas-1954.jpg!Large.jpg
+Albert Tucker,Thames 1957,Expressionism,symbolic painting,,1957,,https://uploads0.wikiart.org//00114//images//albert-tucker//273-2007-s.jpg
+Albert Tucker,Judas 1955,Expressionism,religious painting,,1955,,https://uploads8.wikiart.org//00114//images//albert-tucker//dd001039.jpg!Large.jpg
+Albert Tucker,Victory Girls 1943,Expressionism,figurative,,1943,,https://uploads5.wikiart.org//00114//images//albert-tucker//82187.jpg!Large.jpg
+Adrien Dax,Le Geom Tre Impression De Relief 1967,Art Informel,abstract,,1967,,https://uploads0.wikiart.org//images//adrien-dax//le-geom-tre-impression-de-relief-1967.jpg
+Adrien Dax,Untitled 1962,Surrealism,abstract,,1962,,https://uploads3.wikiart.org//images//adrien-dax//untitled-1962.jpg
+Adrien Dax,Fen Tre Toil E 1962,Surrealism,figurative,,1962,,https://uploads0.wikiart.org//images//adrien-dax//fen-tre-toil-e-1962.jpg
+Adrien Dax,Untitled 1960,Surrealism,abstract,,1960,,https://uploads4.wikiart.org//images//adrien-dax//untitled-1960.jpg!Large.jpg
+Graham Bell,Brunswick Square London 1940,Realism,cityscape,,1940,,https://uploads2.wikiart.org//images//graham-bell//brunswick-square-london-1940.jpg!Large.jpg
+Graham Bell,Baylham Mill 1940,Realism,landscape,,1940,,https://uploads0.wikiart.org//images//graham-bell//baylham-mill-1940.jpg!Large.jpg
+Graham Bell,The Caf Caf Conte London 1938,Realism,genre painting,,1938,,https://uploads3.wikiart.org//images//graham-bell//the-caf-caf-conte-london-1938.jpg!Large.jpg
+Graham Bell,Miss Anne Popham 1938,Realism,portrait,,1938,,https://uploads4.wikiart.org//images//graham-bell//miss-anne-popham-1938.jpg!Large.jpg
+Graham Bell,Dover Front 1938,Realism,landscape,,1938,,https://uploads8.wikiart.org//images//graham-bell//dover-front-1938.jpg!Large.jpg
+Graham Bell,The Green Coat 1930,Realism,portrait,,1930,,https://uploads2.wikiart.org//images//graham-bell//the-green-coat-1930.jpg!Large.jpg
+Louis Van Lint,Composition Germinatrice 1979,Tachisme,abstract,,,,https://uploads8.wikiart.org//00105//images//louis-van-lint//van-lint-mc-124-1.jpg!Large.jpg
+Louis Van Lint,Tribute To Gaudi 1973,Tachisme,abstract,,,,https://uploads3.wikiart.org//00105//images//louis-van-lint//vanlintgaudi.jpg!Large.jpg
+Louis Van Lint,Wild Autumn 1960,Tachisme,abstract,,,,https://uploads7.wikiart.org//00105//images//louis-van-lint//vlwildautumn1960.jpg!Large.jpg
+Louis Van Lint,Grande Composition Rouge 1957,Tachisme,abstract,,,,https://uploads0.wikiart.org//00104//images//louis-van-lint//vllargecomposition.jpg!Large.jpg
+Louis Van Lint,Ciel Mer Et Terre 1948,Tachisme,abstract,,,,https://uploads8.wikiart.org//00104//images//louis-van-lint//vllandand-sea1948.jpg!Large.jpg
+Haroutiun Galentz,The Portrait Of Anahid,"Contemporary Realism,Fauvism",genre painting,,,,https://uploads5.wikiart.org//00168//images//haroutiun-galentz//the-portrait-of-anahid-oil-on-canvas-70x175cm-1956.jpg!Large.jpg
+Haroutiun Galentz,The Tree 1967,Cubism,genre painting,,1967,,https://uploads1.wikiart.org//images//haroutiun-galentz//the-tree-1967.jpg
+Haroutiun Galentz,Still Life Flowers 1962,Cubism,genre painting,,,,https://uploads2.wikiart.org//images//haroutiun-galentz//still-life-flowers-1962.jpg
+Haroutiun Galentz,Portrait Of The Violinist A Gabrielian 1960,Cubism,genre painting,,1960,,https://uploads4.wikiart.org//images//haroutiun-galentz//portrait-of-the-violinist-a-gabrielian-1960.jpg
+Paul Ackerman,The Artist And His Model 1965,"Cubism,Expressionism",genre painting,,1965,,https://uploads5.wikiart.org//images//paul-ackerman//the-artist-and-his-model-1965.jpg!Large.jpg
+Paul Ackerman,Rembrant Devisant Avec Son Ami Le Rabbin Le Soir Dans Son Atelier 1964,Expressionism,genre painting,,1964,,https://uploads0.wikiart.org//images//paul-ackerman//rembrant-devisant-avec-son-ami-le-rabbin-le-soir-dans-son-atelier-1964.jpg
+Paul Ackerman,Personnages Cubistes 1950,Cubism,figurative,,1949 - 1950,,https://uploads0.wikiart.org//images//paul-ackerman//personnages-cubistes-1950.jpg
+Paul Ackerman,Seven Figures In A Landscape 1950,Cubism,figurative,,1950,,https://uploads8.wikiart.org//images//paul-ackerman//seven-figures-in-a-landscape-1950.jpg
+Petre Abrudan,Landscape 1976,Expressionism,landscape,,1976,,https://uploads8.wikiart.org//images//petre-abrudan//landscape-1976.jpg!Large.jpg
+Petre Abrudan,Flowers 1975,Expressionism,flower painting,,1975,,https://uploads6.wikiart.org//images//petre-abrudan//flowers-1975.jpg!Large.jpg
+Petre Abrudan,Light 1961,Expressionism,landscape,,1961,,https://uploads3.wikiart.org//images//petre-abrudan//light-1961.jpg
+Petre Abrudan,Landscape From Baia Mare 1937,Expressionism,landscape,,1937,,https://uploads5.wikiart.org//images//petre-abrudan//landscape-from-baia-mare-1937.jpg!Large.jpg
+Petre Abrudan,Tough Winter 1938,Impressionism,genre painting,,1938,,https://uploads2.wikiart.org//images//petre-abrudan//tough-winter-1938.jpg!Large.jpg
+Octav Angheluta,Tomis Market 1975,Impressionism,cityscape,,1975,,https://uploads4.wikiart.org//images//octav-angheluta//tomis-market-1975.jpg!Large.jpg
+Octav Angheluta,Ivan Lipoveanul 1969,Impressionism,portrait,,1969,,https://uploads7.wikiart.org//images//octav-angheluta//ivan-lipoveanul-1969.jpg!Large.jpg
+Octav Angheluta,Antonel 1946,Impressionism,portrait,,1946,,https://uploads8.wikiart.org//images//octav-angheluta//antonel-1946.jpg!Large.jpg
+Octav Angheluta,Getu A 1945,Impressionism,portrait,,1945,,https://uploads7.wikiart.org//images//octav-angheluta//getu-a-1945.jpg!Large.jpg
+Octav Angheluta,Cap De Trengar 1943,Impressionism,portrait,,1943,,https://uploads6.wikiart.org//images//octav-angheluta//cap-de-trengar-1943.jpg!Large.jpg
+Raquel Forner,Barcas,Expressionism,,,1922,,https://uploads5.wikiart.org//00164//images//raquel-forner//rf-barcas-1080x832.jpg!Large.jpg
+Raquel Forner,Cabeza,"Expressionism,Realism",,,1922,,https://uploads5.wikiart.org//00164//images//raquel-forner//rf-cabeza.jpg!Large.jpg
+Raquel Forner,Casas,Impressionism,,,1926,,https://uploads4.wikiart.org//00164//images//raquel-forner//rf-casas.jpg!Large.jpg
+Raquel Forner,Paisaje Iii,Impressionism,,,1929,,https://uploads1.wikiart.org//00164//images//raquel-forner//rf-paisaje-iii.jpg!Large.jpg
+Raquel Forner,Presagio,Expressionism,,,1931,,https://uploads8.wikiart.org//00164//images//raquel-forner//rf-presagio-1080x1599.jpg!Large.jpg
+Raquel Forner,Ceres,Expressionism,,,1933,,https://uploads5.wikiart.org//00164//images//raquel-forner//rf-ceres-1080x1821.jpg!Large.jpg
+Micaela Eleutheriade,Peisaj Din Suhumi 1965,Post-Impressionism,cityscape,,1965,,https://uploads5.wikiart.org//images//micaela-eleutheriade//peisaj-din-suhumi-1965.jpg!Large.jpg
+Micaela Eleutheriade,N Voade La Tulcea 1957,Impressionism,marina,,1957,,https://uploads5.wikiart.org//images//micaela-eleutheriade//n-voade-la-tulcea-1957.jpg!Large.jpg
+Micaela Eleutheriade,Peisaj Pe Valea Prahovei 1948,Impressionism,landscape,,1948,,https://uploads3.wikiart.org//images//micaela-eleutheriade//peisaj-pe-valea-prahovei-1948.jpg!Large.jpg
+Micaela Eleutheriade,Gr Dina De Zarzavat 1942,Post-Impressionism,landscape,,1942,,https://uploads7.wikiart.org//images//micaela-eleutheriade//gr-dina-de-zarzavat-1942.jpg!Large.jpg
+Micaela Eleutheriade,Peisaj La Balcic 1936,Impressionism,landscape,,1936,,https://uploads3.wikiart.org//images//micaela-eleutheriade//peisaj-la-balcic-1936.jpg
+Lin Fengmian,Chrysanthum 1988,Expressionism,flower painting,,1988,,https://uploads8.wikiart.org//images//lin-fengmian//chrysanthum-1988.jpg
+Lin Fengmian,Young Southern Girls 1980,Expressionism,portrait,,1980,,https://uploads8.wikiart.org//images//lin-fengmian//young-southern-girls-1980.jpg
+Lin Fengmian,Boats 1979,Expressionism,landscape,,1979,,https://uploads2.wikiart.org//images//lin-fengmian//boats-1979.jpg
+Lin Fengmian,Lotus 1977,Post-Impressionism,flower painting,,1977,,https://uploads2.wikiart.org//images//lin-fengmian//lotus-1977.jpg
+Lin Fengmian,Gladioli 1960,Post-Impressionism,flower painting,,1960,,https://uploads5.wikiart.org//images//lin-fengmian//gladioli-1960.jpg
+Lin Fengmian,Autumn Twilight In A Forest 1960,Expressionism,landscape,,1960,,https://uploads6.wikiart.org//images//lin-fengmian//autumn-twilight-in-a-forest-1960.jpg
+Robert Brackman,Girl From Village 1960,Realism,portrait,,1960,,https://uploads0.wikiart.org//images//robert-brackman//girl-from-village-1960.jpg!Large.jpg
+Robert Brackman,R Verie 1957,Realism,portrait,,1957,,https://uploads7.wikiart.org//images//robert-brackman//r-verie-1957.jpg
+Robert Brackman,Somewhere In America 1934,Realism,portrait,,1934,,https://uploads3.wikiart.org//images//robert-brackman//somewhere-in-america-1934.jpg!Large.jpg
+Robert Brackman,Young Lady Of 1933,Realism,portrait,,1933,,https://uploads4.wikiart.org//images//robert-brackman//young-lady-of-1933.jpg
+Corneliu Michailescu,Geraniums 1960,Post-Impressionism,cityscape,,1960,,https://uploads5.wikiart.org//images//corneliu-michailescu//geraniums-1960.jpg
+Corneliu Michailescu,Composition 1930 1,Expressionism,sketch and study,,1930,,https://uploads1.wikiart.org//images//corneliu-michailescu//composition-1930-1.jpg!Large.jpg
+Corneliu Michailescu,Composition 1930,Expressionism,genre painting,,1930,,https://uploads7.wikiart.org//images//corneliu-michailescu//composition-1930.jpg
+Corneliu Michailescu,Interior Of The Atelier 1928,Dada,interior,,1928,,https://uploads2.wikiart.org//images//corneliu-michailescu//interior-of-the-atelier-1928.jpg!Large.jpg
+Margareta Sterian,Illustration For V Voiculescu S Last Shakespearean Sonnets 1982 3,Expressionism,illustration,,1982,,https://uploads1.wikiart.org//images//margareta-sterian//illustration-for-v-voiculescu-s-last-shakespearean-sonnets-1982(3).jpg!Large.jpg
+Margareta Sterian,Illustration For V Voiculescu S Last Shakespearean Sonnets 1982 2,Tachisme,illustration,,1982,,https://uploads1.wikiart.org//images//margareta-sterian//illustration-for-v-voiculescu-s-last-shakespearean-sonnets-1982(2).jpg!Large.jpg
+Margareta Sterian,Illustration For V Voiculescu S Last Shakespearean Sonnets 1982 1,Tachisme,illustration,,1982,,https://uploads1.wikiart.org//images//margareta-sterian//illustration-for-v-voiculescu-s-last-shakespearean-sonnets-1982(1).jpg!Large.jpg
+Margareta Sterian,Park Descending Towards Harlem New York 1932,Expressionism,landscape,,1932,,https://uploads6.wikiart.org//images//margareta-sterian//park-descending-towards-harlem-new-york-1932.jpg!Large.jpg
+Margareta Sterian,Illustration For V Voiculescu S Last Shakespearean Sonnets 1982,Expressionism,illustration,,1982,,https://uploads7.wikiart.org//images//margareta-sterian//illustration-for-v-voiculescu-s-last-shakespearean-sonnets-1982.jpg!Large.jpg
+Filippo De Pisis,Fiori Di Campo 1953,Expressionism,flower painting,,1953,,https://uploads2.wikiart.org//00143//images//de-pisis//artgate-fondazione-cariplo-de-pisis-filippo-fiori-di-campo.jpg!Large.jpg
+Filippo De Pisis,Piazza San Marco 1940,Expressionism,cityscape,,1940,,https://uploads1.wikiart.org//00143//images//de-pisis//piazza-san-marco-1940.jpg!Large.jpg
+Filippo De Pisis,Tour Eiffel 1939,Expressionism,cityscape,,1939,,https://uploads8.wikiart.org//00143//images//de-pisis//tour-eiffel-de-pisis-in-mostra-fondazione-magnani-rocca.jpg!Large.jpg
+Filippo De Pisis,Paesaggio Con Passero E Casolare 1933,"Metaphysical art,Expressionism",landscape,,1933,,https://uploads7.wikiart.org//00148//images//filippo-de-pisis//paesaggio-con-passero-e-casolare-1933.jpg!Large.jpg
+Filippo De Pisis,Il Marinaio Francese 1930,Expressionism,portrait,,1930,,https://uploads5.wikiart.org//00143//images//de-pisis//1930-il-marinaio.jpg!Large.jpg
+Carlos Orozco Romero,Ensayo De Color 1953,"Magic Realism,Surrealism",symbolic painting,,1953,,https://uploads2.wikiart.org//images//carlos-orozco-romero//ensayo-de-color-1953.jpg
+Carlos Orozco Romero,The Eclipse 1952,"Magic Realism,Surrealism",genre painting,,1952,,https://uploads7.wikiart.org//images//carlos-orozco-romero//the-eclipse-1952.jpg
+Carlos Orozco Romero,Lago De Patzcuaro 1945,Magic Realism,landscape,,1945,,https://uploads4.wikiart.org//images//carlos-orozco-romero//lago-de-patzcuaro-1945.jpg
+Carlos Orozco Romero,Women 1939,"Cubism,Expressionism",genre painting,,1939,,https://uploads1.wikiart.org//images//carlos-orozco-romero//women-1939.jpg
+Carlos Orozco Romero,The Miner 1929,"Expressionism,Social Realism",genre painting,,1929,,https://uploads6.wikiart.org//images//carlos-orozco-romero//the-miner-1929.jpg!Large.jpg
+Nutzi Acontz,Landscape With River 1954,Impressionism,landscape,,1954,,https://uploads0.wikiart.org//images//nutzi-acontz//landscape-with-river-1954.jpg!Large.jpg
+Nutzi Acontz,Horseshoeing 1948,Post-Impressionism,genre painting,,1948,,https://uploads0.wikiart.org//images//nutzi-acontz//horseshoeing-1948.jpg
+Nutzi Acontz,Interior In Sozopol 1947,Post-Impressionism,interior,,1947,,https://uploads8.wikiart.org//images//nutzi-acontz//interior-in-sozopol-1947.jpg!Large.jpg
+Nutzi Acontz,Terrace In Balcic 1930,Post-Impressionism,cityscape,,1930,,https://uploads6.wikiart.org//images//nutzi-acontz//terrace-in-balcic-1930.jpg!Large.jpg
+Friedrich Schroder Sonnenstern,Surrealist Composition 1965,Art Brut,symbolic painting,,1965,,https://uploads2.wikiart.org//images//friedrich-schroder-sonnenstern//surrealist-composition-1965.jpg!Large.jpg
+Friedrich Schroder Sonnenstern,The Demoness Of Urgency 1958,Art Brut,symbolic painting,,1958,,https://uploads2.wikiart.org//images//friedrich-schroder-sonnenstern//the-demoness-of-urgency-1958.jpg
+Friedrich Schroder Sonnenstern,The Moralistic Moon Dualism 1955,Art Brut,symbolic painting,,1955,,https://uploads6.wikiart.org//images//friedrich-schroder-sonnenstern//the-moralistic-moon-dualism-1955.jpg
+Friedrich Schroder Sonnenstern,The Mass Demon 1954,Art Brut,symbolic painting,,1954,,https://uploads3.wikiart.org//images//friedrich-schroder-sonnenstern//the-mass-demon-1954.jpg!Large.jpg
+Friedrich Schroder Sonnenstern,Der Betende Lowe Oder Die Geschandete Kraft 1952,Art Brut,symbolic painting,,1952,,https://uploads4.wikiart.org//images//friedrich-schroder-sonnenstern//der-betende-lowe-oder-die-geschandete-kraft-1952.jpg
+Friedrich Schroder Sonnenstern,Die Wendumb 1948,Art Brut,symbolic painting,,1948,,https://uploads8.wikiart.org//images//friedrich-schroder-sonnenstern//die-wendumb-1948.jpg
+Alexander Bazhbeuk Melikyan,The Courtyard 1964,Expressionism,"landscape,portrait",,1964,,https://uploads8.wikiart.org//images//alexander-bazhbeuk-melikyan//the-courtyard-1964.jpg!Large.jpg
+Alexander Bazhbeuk Melikyan,Academy Of Art Student M Zdanevichi Portrait 1949,Realism,"landscape,portrait",,1949,,https://uploads2.wikiart.org//images//alexander-bazhbeuk-melikyan//academy-of-art-student-m-zdanevichi-portrait-1949.jpg
+Alexander Bazhbeuk Melikyan,Bathing Women 1929,Expressionism,"landscape,portrait",,1929,,https://uploads7.wikiart.org//images//alexander-bazhbeuk-melikyan//bathing-women-1929.jpg
+Alexander Bazhbeuk Melikyan,Figures 1928,Expressionism,"landscape,portrait",,1928,,https://uploads1.wikiart.org//images//alexander-bazhbeuk-melikyan//figures-1928.jpg
+Alexander Bazhbeuk Melikyan,In Front Of The Mirror 1928,Expressionism,"landscape,portrait",,1928,,https://uploads8.wikiart.org//images//alexander-bazhbeuk-melikyan//in-front-of-the-mirror-1928.jpg!Large.jpg
+Alexander Bazhbeuk Melikyan,Group Of Women 1927,Expressionism,"landscape,portrait",,1927,,https://uploads3.wikiart.org//images//alexander-bazhbeuk-melikyan//group-of-women-1927(1).jpg!Large.jpg
+Kiyokata Kaburagi,Bijin Light Snowfall 1931,Shin-hanga,bijinga,,1931,,https://uploads5.wikiart.org//images//kiyokata-kaburagi//bijin-light-snowfall-1931.jpg!Large.jpg
+Kiyokata Kaburagi,Face Powder 1928,Shin-hanga,advertisement,,1928,,https://uploads5.wikiart.org//images//kiyokata-kaburagi//face-powder-1928.jpg!Large.jpg
+Kiyokata Kaburagi,Evening At Hot Spring 1912,Shin-hanga,bijinga,,1912,,https://uploads6.wikiart.org//images//kiyokata-kaburagi//evening-at-hot-spring-1912.jpg!Large.jpg
+Kiyokata Kaburagi,Scarlet Peach 1909,Shin-hanga,bijinga,,1909,,https://uploads7.wikiart.org//images//kiyokata-kaburagi//scarlet-peach-1909.jpg!Large.jpg
+Kiyokata Kaburagi,Woman And White Swans 1906,Shin-hanga,genre painting,,1906,,https://uploads6.wikiart.org//images//kiyokata-kaburagi//woman-and-white-swans-1906.jpg!Large.jpg
+Kiyokata Kaburagi,Bijin In Pink And White Curtain 1903,Shin-hanga,bijinga,,1903,,https://uploads7.wikiart.org//images//kiyokata-kaburagi//bijin-in-pink-and-white-curtain-1903.jpg!Large.jpg
+Austin Osman Spare,Effloration 1952,Symbolism,abstract,,1952,,https://uploads2.wikiart.org//00143//images//austin-osman-spare//effloration-1952-2-xl.jpg!Large.jpg
+Austin Osman Spare,Dr Flora Murray Working At Her Desk Observed By A Unnamed Man To Her Side 1918,Symbolism,abstract,,1918,,https://uploads7.wikiart.org//00149//images//austin-osman-spare//dr-flora-murray-endell-street-hospital-london-art-iwm-art-2767.jpg!Large.jpg
+Austin Osman Spare,Ascension Of The Ego From Ecstasy To Ecstasy 1913,Symbolism,abstract,,1913,,https://uploads3.wikiart.org//00149//images//austin-osman-spare//ascension-of-the-ego-from-ecstasy-to-ecstasy-1913.jpg!Large.jpg
+Austin Osman Spare,Portrait Of The Artist 1907,"Symbolism,Art Nouveau (Modern)",abstract,,1907,,https://uploads8.wikiart.org//00149//images//austin-osman-spare//portrait-of-the-artist-1907.jpg!Large.jpg
+Sedrak Arakelyan,Sevan In The Morning 1940,Realism,"landscape,portrait",,,,https://uploads3.wikiart.org//images//sedrak-arakelyan//sevan-in-the-morning-1940.jpg
+Sedrak Arakelyan,View From The Sevan Island 1937,Realism,"landscape,portrait",,,,https://uploads0.wikiart.org//images//sedrak-arakelyan//view-from-the-sevan-island-1937.jpg
+Sedrak Arakelyan,Sevan 1925,Realism,"landscape,portrait",,,,https://uploads6.wikiart.org//images//sedrak-arakelyan//sevan-1925.jpg
+Sedrak Arakelyan,Autumn Yerevan 1924,Post-Impressionism,"landscape,portrait",,1923,,https://uploads6.wikiart.org//images//sedrak-arakelyan//autumn-yerevan-1924.jpg
+Sedrak Arakelyan,Spring Spring Garden 1923,Post-Impressionism,"landscape,portrait",,,,https://uploads3.wikiart.org//images//sedrak-arakelyan//spring-spring-garden-1923.jpg
+Raphael Delorme,Untitled 1940,Art Deco,portrait,,1940,,https://uploads8.wikiart.org//images//raphael-delorme//untitled-1940.jpg
+Raphael Delorme,Untitled 1930,Art Deco,nude painting (nu),,1930,,https://uploads8.wikiart.org//images//raphael-delorme//untitled-1930.jpg
+Raphael Delorme,V Nus Au Voile Bleu 1925,Art Deco,mythological painting,,1925,,https://uploads2.wikiart.org//images//raphael-delorme//v-nus-au-voile-bleu-1925.jpg!Large.jpg
+Raphael Delorme,The Stairs 1925,Art Deco,nude painting (nu),,1925,,https://uploads1.wikiart.org//images//raphael-delorme//the-stairs-1925.jpg
+Raphael Delorme,L Afrique 1925,Art Deco,allegorical painting,,1925,,https://uploads0.wikiart.org//images//raphael-delorme//l-afrique-1925.jpg
+Raphael Delorme,Elsa Maxwell S Hotel For Women 1925,Art Deco,nude painting (nu),,1925,,https://uploads4.wikiart.org//images//raphael-delorme//elsa-maxwell-s-hotel-for-women-1925.jpg!Large.jpg
+Maurice Utrillo,Les Anciens Moulins De Montmartre Et La Ferme Debray 1923,Post-Impressionism,cityscape,,1923,,https://uploads2.wikiart.org//00160//images//maurice-utrillo//maurice-utrillo-les-anciens-moulins-de-montmartre-et-la-ferme-debray.jpg
+Maurice Utrillo,Le Moulin De La Galette A Montmartre 1915,Post-Impressionism,cityscape,,1915,,https://uploads2.wikiart.org//00160//images//maurice-utrillo//image.jpg
+Maurice Utrillo,The Windmill At Sannois 1912,Post-Impressionism,cityscape,,1912,,https://uploads2.wikiart.org//00160//images//maurice-utrillo//xx113.jpg
+Maurice Utrillo,La Place Du Tertre 1910,Post-Impressionism,cityscape,,1910,,https://uploads2.wikiart.org//00160//images//maurice-utrillo//54479.jpg
+Georges Ribemont Dessaignes,Petit D Sert 1920,Dada,abstract,,1920,,https://uploads6.wikiart.org//images//georges-ribemont-dessaignes//petit-d-sert-1920.jpg
+Georges Ribemont Dessaignes,Grand Musicien 1920,Dada,sketch and study,,1920,,https://uploads8.wikiart.org//images//georges-ribemont-dessaignes//grand-musicien-1920.jpg
+Georges Ribemont Dessaignes,Dieu Bicyclette 1920,Dada,sketch and study,,1920,,https://uploads0.wikiart.org//images//georges-ribemont-dessaignes//dieu-bicyclette-1920.jpg
+Georges Ribemont Dessaignes,Comedien 1920,Dada,sketch and study,,1920,,https://uploads2.wikiart.org//images//georges-ribemont-dessaignes//comedien-1920.jpg
+Georges Ribemont Dessaignes,Silence 1915,Dada,figurative,,1915,,https://uploads1.wikiart.org//images//georges-ribemont-dessaignes//silence-1915.jpg
+Georges Ribemont Dessaignes,Paysage Du Midi 1905,Pointillism,landscape,,1905,,https://uploads0.wikiart.org//images//georges-ribemont-dessaignes//paysage-du-midi-1905.jpg
+Max Jacob,Vaches Dans Un Paysage 1943,"Expressionism,Cubism",mythological painting,,1943,,https://uploads5.wikiart.org//00114//images//max-jacob//vaches-dans-un-paysage-1943.jpg!Large.jpg
+Max Jacob,La Visitation 1938,"Expressionism,Cubism",religious painting,,1938,,https://uploads5.wikiart.org//00114//images//max-jacob//la-visitation-1938.jpg!Large.jpg
+Max Jacob,Fetes A Quimper 1930,Expressionism,genre painting,,1930,,https://uploads6.wikiart.org//00114//images//max-jacob//f-tes-quimper-1930-gouache-sur-papier.jpg!Large.jpg
+Max Jacob,Leglise De Locmaria A Quimper 1927,Expressionism,cityscape,,1927,,https://uploads2.wikiart.org//00114//images//max-jacob//l-glise-de-locmaria-quimper-1927-gouache-sur-papier.jpg!Large.jpg
+Edouard Cortes,Quay Du Louvre 4,Post-Impressionism,cityscape,,1925,,https://uploads2.wikiart.org//images//edouard-cortes//quay-du-louvre-4.jpg!Large.jpg
+Edouard Cortes,St Denis 7,Post-Impressionism,cityscape,,1905,,https://uploads5.wikiart.org//images//edouard-cortes//st-denis-7.jpg!Large.jpg
+Edouard Cortes,Paris Evening,Post-Impressionism,cityscape,,1905,,https://uploads8.wikiart.org//images//edouard-cortes//paris-evening.jpg!Large.jpg
+Edouard Cortes,Lamp Effect,Post-Impressionism,cityscape,,1903,,https://uploads6.wikiart.org//images//edouard-cortes//lamp-effect.jpg!Large.jpg
+Samuel Schwarz,View Of Sarphatipark 1942,Expressionism,landscape,,1942,,https://uploads8.wikiart.org//00114//images//samuel-schwarz//view-of-sarphatipark-1942.png!Large.png
+Samuel Schwarz,Zelfportret Aan De Ezel 1940,Expressionism,self-portrait,,1940,,https://uploads1.wikiart.org//00114//images//samuel-schwarz//zelfportret-aan-de-ezel-1940.jpg
+Samuel Schwarz,Cover Design For Trotskys Autobiography 1939,Constructivism,design,,1939,,https://uploads1.wikiart.org//00114//images//samuel-schwarz//cover-design-for-trotsky-s-autobiography-1939.jpg!Large.jpg
+Samuel Schwarz,Still Life With Flowers 1916,Fauvism,flower painting,,1916,,https://uploads2.wikiart.org//00114//images//samuel-schwarz//still-life-with-flowers-1916.jpg!Large.jpg
+Samuel Schwarz,Spanish Village 1914,Cubism,cityscape,,1914,,https://uploads2.wikiart.org//00114//images//samuel-schwarz//spanish-village-1914.jpg
+Samuel Schwarz,Village Street In The Sun 1912,"Cubism,Fauvism",cityscape,,1912,,https://uploads4.wikiart.org//00114//images//samuel-schwarz//village-street-in-the-sun-1912.jpg!Large.jpg
+Galileo Chini,Velieri Sullo Scalo A Viareggio 1937,Impressionism,marina,,1937,,https://uploads2.wikiart.org//images//galileo-chini//velieri-sullo-scalo-a-viareggio-1937.jpg
+Galileo Chini,La Primavera Che Perennemente Si Rinnova 1914,Art Nouveau (Modern),allegorical painting,,1914,,https://uploads3.wikiart.org//images//galileo-chini//la-primavera-che-perennemente-si-rinnova-1914.jpg!Large.jpg
+Galileo Chini,Il Mio Cortile A Bangkokg 1911,Impressionism,cityscape,,1911,,https://uploads5.wikiart.org//images//galileo-chini//il-mio-cortile-a-bangkokg-1911.jpg
+Galileo Chini,Il Tifone 1911,Art Nouveau (Modern),marina,,1911,,https://uploads7.wikiart.org//images//galileo-chini//il-tifone-1911.jpg
+Galileo Chini,La Danzatrice 1911,Art Nouveau (Modern),nude painting (nu),,1911,,https://uploads3.wikiart.org//images//galileo-chini//la-danzatrice-1911.jpg!Large.jpg
+Galileo Chini,All Gorie De La Peinture 1895,Art Nouveau (Modern),allegorical painting,,1895,,https://uploads4.wikiart.org//images//galileo-chini//all-gorie-de-la-peinture-1895.jpg
+Kimon Loghi,Marina 1935,Impressionism,marina,,1935,,https://uploads3.wikiart.org//images//kimon-loghi//marina-1935.jpg!Large.jpg
+Kimon Loghi,On The Shore 1934,"Post-Impressionism,Symbolism",landscape,,1934,,https://uploads0.wikiart.org//images//kimon-loghi//on-the-shore-1934.jpg!Large.jpg
+Kimon Loghi,Springtime 1930,Post-Impressionism,landscape,,1930,,https://uploads7.wikiart.org//images//kimon-loghi//springtime-1930.jpg!Large.jpg
+Kimon Loghi,The Lake Fairy 1915,Symbolism,symbolic painting,,1915,,https://uploads2.wikiart.org//images//kimon-loghi//the-lake-fairy-1915.jpg!Large.jpg
+Kimon Loghi,Girl From Tassos Island 1906,Impressionism,portrait,,1906,,https://uploads2.wikiart.org//images//kimon-loghi//girl-from-tassos-island-1906.jpg!Large.jpg
+Kimon Loghi,The Oriental Woman 1898,"Orientalism,Symbolism",portrait,,1898,,https://uploads6.wikiart.org//images//kimon-loghi//the-oriental-woman-1898.jpg!Large.jpg

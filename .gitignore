@@ -4,3 +4,4 @@ final_dataset.csv
 *.zip
 *.tar.gz
 *.rar
+.env
